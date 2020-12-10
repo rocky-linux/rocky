@@ -1,4 +1,6 @@
-# Rocky Linux
+<p align="center">
+<img src="https://raw.githubusercontent.com/rocky-linux/rockylinux.org-intro-spa/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+</p>
 
 <p align="center">
 <i>"Thinking back to early CentOS days... My cofounder was Rocky McGaugh. He is no longer with us, so as a H/T to him, who never got to see the success that CentOS came to be, I introduce to you...Rocky Linux"</i><br>

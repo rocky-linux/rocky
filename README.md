@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/rocky-linux/rockylinux.org-intro-spa/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+<img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
 </p>
 
 <p align="center">

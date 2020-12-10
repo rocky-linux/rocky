@@ -51,6 +51,7 @@ If you are interested in contributing server, networking, or storage resources, 
 ## Special Thanks
 
 We would like to thank the following groups for their support thus far on the project:
+* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

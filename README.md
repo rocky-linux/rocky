@@ -35,7 +35,7 @@ Rocky Linux aims to function as a downstream build as CentOS had done previously
 ## Stay Informed
 
 * [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-gy0st6mt-ijgUaSvfdeEOhfXXfIstrQ)
-* [Forum](forums.rockylinux.org/)
+* [Forum](https://forums.rockylinux.org/)
 * [IRC](https://webchat.freenode.net/?channels=rockylinux)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)

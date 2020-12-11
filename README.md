@@ -9,19 +9,19 @@
 
 ## About
 
-Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Red Hat Enterprise Linux, now that CentOS has shifted direction.
+Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux, now that CentOS has shifted direction.
 
 ## Frequently Asked Questions
 
 > **Q:** What do you mean, "CentOS has shifted direction?"
 
-The CentOS project [recently announced](https://blog.centos.org/2020/12/future-is-centos-stream/) a shift in strategy for CentOS. Whereas previously CentOS existed as a *downstream* build of Red Hat Enterprise Linux (it receives patches and updates after RHEL does), it will be shifting to an *upstream* build (testing patches and updates before inclusion in RHEL).
+The CentOS project [recently announced](https://blog.centos.org/2020/12/future-is-centos-stream/) a shift in strategy for CentOS. Whereas previously CentOS existed as a *downstream* build of its upstream vendor (it receives patches and updates after the upstream vendor does), it will be shifting to an *upstream* build (testing patches and updates *before* inclusion in the upstream vendor).
 
 Additionally, support for CentOS Linux 8 has been cut short, from May 31, 2029 to December 31, 2021.
 
 > **Q:** So where does Rocky Linux come in?
 
-Rocky Linux aims to function as a downstream build as CentOS had done previously, building releases after they have been added to Red Hat Enterprise, not before.
+Rocky Linux aims to function as a downstream build as CentOS had done previously, building releases after they have been added to the upstream vendor, not before.
 
 ## Contact
 

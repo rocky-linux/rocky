@@ -34,7 +34,7 @@ Rocky Linux aims to function as a downstream build as CentOS had done previously
 
 ## Stay Informed
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-gy0st6mt-ijgUaSvfdeEOhfXXfIstrQ)
+* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)
 * [Forum](https://forums.rockylinux.org/)
 * [IRC](https://webchat.freenode.net/?channels=rockylinux)
 * [GitHub](https://github.com/rocky-linux/)
@@ -46,7 +46,7 @@ Rocky Linux aims to function as a downstream build as CentOS had done previously
 
 Thank you for your interest in contributing to the project!
 
-If you are a developer, architect, engineer, or otherwise looking to contribute your time and expertise, please consider joining the [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-gy0st6mt-ijgUaSvfdeEOhfXXfIstrQ) and jumping into the most relevant channel to your interests.
+If you are a developer, architect, engineer, or otherwise looking to contribute your time and expertise, please consider joining the [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) and jumping into the most relevant channel to your interests.
 
 If you are interested in contributing server, networking, or storage resources, or wish to contribute financially or sponsor the project, please email hello@rockylinux.org. Please note we **do not** currently have a Patreon, Ko-Fi or anything of the sort.
 

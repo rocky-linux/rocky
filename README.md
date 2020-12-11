@@ -23,32 +23,54 @@ Additionally, support for CentOS Linux 8 has been cut short, from May 31, 2029 t
 
 Rocky Linux aims to function as a downstream build as CentOS had done previously, building releases after they have been added to the upstream vendor, not before.
 
+> **Q:** When will it be released?
+
+There is not currently an ETA for release.
+
+> **Q:** What is the vision for Rocky Linux?
+
+A **solid**, **stable**, and **transparent** alternative for production environments, developed *by* the community *for* the community.
+
+> **Q:** Who drives Rocky Linux?
+
+We all do, Rocky Linux is a community-driven project and always will be. Rocky Linux is not be sold or driven by corporate interest.
+
+> **Q:** How can I get involved?
+
+Please view the [contributing](#contributing) section below.
+
 ## Contact
 
-* Press inquiries: outreach@rockylinux.org
-* Dev Team: development@rockylinux.org
-* Infrastructure and Operations: infrastructure@rockylinux.org
-* Security: security@rockylinux.org
-* Website questions: web@rockylinux.org
-* General questions: hello@rockylinux.org
+| Team                          | Contact                       |
+|-------------------------------|-------------------------------|
+| Press                         | outreach@rockylinux.org       |
+| Development                   | development@rockylinux.org    |
+| Infrastructure                | infrastructure@rockylinux.org |
+| Security                      | security@rockylinux.org       |
+| Web                           | web@rockylinux.org            |
+
+
+For all other questions: hello@rockylinux.org
 
 ## Stay Informed
 
 * [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)
 * [Forum](https://forums.rockylinux.org/)
-* [IRC](https://webchat.freenode.net/?channels=rockylinux)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
+* [IRC](https://webchat.freenode.net/?channels=rockylinux)
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
 ## Contributing
 
-Thank you for your interest in contributing to the project!
+Thank you for your interest in contributing to the project.
 
 If you are a developer, architect, engineer, or otherwise looking to contribute your time and expertise, please consider joining the [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) and jumping into the most relevant channel to your interests.
 
-If you are interested in contributing server, networking, or storage resources, or wish to contribute financially or sponsor the project, please email hello@rockylinux.org. Please note we **do not** currently have a Patreon, Ko-Fi or anything of the sort.
+If you are interested in donating or sponsoring the project, please email hello@rockylinux.org. 
+
+**NOTE**: We **do not** currently have any official crowdsourcing established.
 
 ## Special Thanks
 

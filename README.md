@@ -33,7 +33,7 @@ A **solid**, **stable**, and **transparent** alternative for production environm
 
 > **Q:** Who drives Rocky Linux?
 
-We all do, Rocky Linux is a community-driven project and always will be. Rocky Linux is not be sold or driven by corporate interest.
+We all do, Rocky Linux is a community-driven project and always will be. Rocky Linux will not be sold or driven by corporate interest.
 
 > **Q:** How can I get involved?
 
@@ -79,16 +79,3 @@ We would like to thank the following groups for their support thus far on the pr
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)
-
-
-## 官方中文社区
-网址：www.rockylinux.cn
-
-## 中文社区成立
-目前我们正在筹建Rocky Linux中文社区团队，无论您是一名Linux爱好者、开发者、运维、英语爱好者我们都欢迎您的加入。  
-海纳百川,有容乃大;壁立千仞,无欲则刚
-
-## 联系我们
-米聊：2339927892  
-QQ：2306867585  
-微信：rockylinuxcn  

@@ -41,13 +41,13 @@ Please view the [contributing](#contributing) section below.
 
 ## Contact
 
-| Team                          | Contact                       |
-|-------------------------------|-------------------------------|
-| Press                         | outreach@rockylinux.org       |
-| Development                   | development@rockylinux.org    |
-| Infrastructure                | infrastructure@rockylinux.org |
-| Security                      | security@rockylinux.org       |
-| Web                           | web@rockylinux.org            |
+| Team                          | Contact                                   |
+|-------------------------------|-------------------------------------------|
+| Press                         | outreach@rockylinux.org                   |
+| Development                   | development@rockylinux.org                |
+| Infrastructure                | infrastructure@rockylinux.org             |
+| Security                      | security@rockylinux.org                   |
+| Web and Branding              | web@rockylinux.org, brand@rockylinux.com  |
 
 
 For all other questions: hello@rockylinux.org
@@ -68,7 +68,7 @@ Thank you for your interest in contributing to the project.
 
 If you are a developer, architect, engineer, or otherwise looking to contribute your time and expertise, please consider joining the [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) and jumping into the most relevant channel to your interests.
 
-If you are interested in donating or sponsoring the project, please email hello@rockylinux.org. 
+If you are interested in donating or sponsoring the project, please email hello@rockylinux.org.
 
 **NOTE**: We **do not** currently have any official crowdsourcing established.
 

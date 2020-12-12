@@ -79,3 +79,4 @@ We would like to thank the following groups for their support thus far on the pr
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)
+* [FMI Groupe](https://www.fmi.fr/)

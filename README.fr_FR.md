@@ -41,12 +41,12 @@ Veuillez consulter la section [contribution](#Contribuant) ci-dessous.
 
 ## Contact
 
-| Équipe                        | Contact                       |
-|-------------------------------|-------------------------------|
-| Presse                        | outreach@rockylinux.org       |
-| Développement                 | development@rockylinux.org    |
-| Infrastructure                | infrastructure@rockylinux.org |
-| Sécurité                      | security@rockylinux.org       |
+| Équipe                        | Contact                                 |
+|-------------------------------|-----------------------------------------|
+| Presse                        | outreach@rockylinux.org                 |
+| Développement                 | development@rockylinux.org              |
+| Infrastructure                | infrastructure@rockylinux.org           |
+| Sécurité                      | security@rockylinux.org                 |
 | Web and Branding              | web@rockylinux.org, brand@rockylinux.com|
 
 Pour toutes autres questions: hello@rockylinux.org

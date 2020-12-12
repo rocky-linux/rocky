@@ -70,7 +70,7 @@ If you are a developer, architect, engineer, or otherwise looking to contribute 
 
 If you are interested in donating or sponsoring the project, please email hello@rockylinux.org. 
 
-**NOTE**: We **do not** currently have any official crowdsourcing established.
+**NOTE**: We currently **do not** have any official crowdsourcing established.
 
 ## Special Thanks
 

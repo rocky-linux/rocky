@@ -79,3 +79,4 @@ Rocky Linux的目标是像CentOS以前那样作为一个下游版本来运行，
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)
+* [FMI Groupe](https://www.fmi.fr/)

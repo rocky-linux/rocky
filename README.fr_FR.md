@@ -47,8 +47,7 @@ Veuillez consulter la section [contribution](#Contribuant) ci-dessous.
 | Développement                 | development@rockylinux.org    |
 | Infrastructure                | infrastructure@rockylinux.org |
 | Sécurité                      | security@rockylinux.org       |
-| Web                           | web@rockylinux.org            |
-| Branding                      | brand@rockylinux.com          |
+| Web and Branding              | web@rockylinux.org, brand@rockylinux.com|
 
 Pour toutes autres questions: hello@rockylinux.org
 

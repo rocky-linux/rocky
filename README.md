@@ -84,7 +84,7 @@ We would like to thank the following groups for their support thus far on the pr
 网址：www.rockylinux.cn
 
 ## 中文社区成立
-目前我们正在筹建Rocky Linux中文社区团队，无论您是一名Linux爱好者、开发者、运维、英语爱好者我们都欢迎您的加入。
+目前我们正在筹建Rocky Linux中文社区团队，无论您是一名Linux爱好者、开发者、运维、英语爱好者我们都欢迎您的加入。  
 海纳百川,有容乃大;壁立千仞,无欲则刚
 
 ## 联系我们

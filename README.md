@@ -33,7 +33,7 @@ A **solid**, **stable**, and **transparent** alternative for production environm
 
 > **Q:** Who drives Rocky Linux?
 
-We all do, Rocky Linux is a community-driven project and always will be. Rocky Linux is not be sold or driven by corporate interest.
+We all do, Rocky Linux is a community-driven project and always will be. Rocky Linux will not be sold or driven by corporate interest.
 
 > **Q:** How can I get involved?
 

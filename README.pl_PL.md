@@ -15,7 +15,7 @@ Rocky Linux jest systemem operacyjnym klasy korporacyjnej zaprojektowanym tak, a
 
 > **P:** Co masz na myśli mówiąc "zmiana kierunku rozwoju CentOS?"
 
-Projekt CentOS [niedawne ogłoszenie](https://blog.centos.org/2020/12/future-is-centos-stream/) zmienił strategię kierunku rozwoju CentOS. mając na uwadze, że wcześniej CentOS istniał jako kompilacja tzw. *downstream* swojego dostawcy wyższego szczebla (otrzymuje łatki i aktualizacje po tym, jak dostawca wyższego szczebla je otrzymuje), zostanie on przeniesiony do kompilacji *upstream* (testowanie łatek i aktualizacji *przed włączeniem* do dostawcy wyższego szczebla).
+Projekt CentOS [niedawno ogłosił](https://blog.centos.org/2020/12/future-is-centos-stream/) zmianę strategii kierunku rozwoju CentOS. mając na uwadze, że wcześniej CentOS istniał jako kompilacja tzw. *downstream* swojego dostawcy wyższego szczebla (otrzymuje łatki i aktualizacje po tym, jak dostawca wyższego szczebla je otrzymuje), zostanie on przeniesiony do kompilacji *upstream* (testowanie łatek i aktualizacji *przed włączeniem* do dostawcy wyższego szczebla).
 
 Dodatkowo, wsparcie dla CentOS Linux 8 zostało skrócone, od 31 maja 2029 do 31 grudnia 2021.
 

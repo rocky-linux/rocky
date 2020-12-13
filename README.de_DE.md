@@ -9,13 +9,13 @@
 
 ## Über uns
 
-Rocky Linux ist ein Community- und unternehmensbezogenes Betriebssystem, dass 100 % "bug-für-bug"- kompatibel mit "Enterprise Linux" ist, jetzt wo CentOS die Richtung geändert hat.
+Rocky Linux ist ein Community- und unternehmensbezogenes Betriebssystem, dass 100 % "bug-für-bug"- kompatibel mit "Enterprise Linux" ist, jetzt wo CentOS die Ausrichtung geändert hat.
 
 ## FAQ
 
-> **F:** Was meint ihr mit "jetzt wo CentOS die Richtung geändert hat?"
+> **F:** Was meint ihr mit "jetzt wo CentOS die Ausrichtung geändert hat?"
 
-Das CentOS Projekt [recently announced](https://blog.centos.org/2020/12/future-is-centos-stream/) eine Strategieänderung für CentOS. Während CentOS zuvor als *Downstream* Build seines Upstream-Anbieters fungierte (Patches und Updates werden erst dann ausgeliefert, nachdem der Upstream-Anbieter diese implementiert hat), soll CentOS nun zu einem *Upstream* Build werden (Patches und Updates werden getestet *bevor* diese in den Upstream-Anbieter aufgenommen werde).
+Das CentOS Projekt [kündigte vor kurzem](https://blog.centos.org/2020/12/future-is-centos-stream/) eine Strategieänderung für CentOS an. Während CentOS zuvor als *Downstream* Build seines Upstream-Anbieters fungierte (Patches und Updates werden erst dann ausgeliefert, nachdem der Upstream-Anbieter diese implementiert hat), soll CentOS nun zu einem *Upstream* Build werden (Patches und Updates werden getestet *bevor* diese in den Upstream-Anbieter aufgenommen werde).
 
 Darüber hinaus wird die Unterstützung für CentOS Linux 8 von zuvor 31. Mai 2029  auf den 31. Dezember 2021 verkürzt.
 

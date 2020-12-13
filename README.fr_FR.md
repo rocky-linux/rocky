@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-<i>"En repensant aux premiers jours de CentOS ... Mon cofondateur était Rocky McGaugh. Il n'est plus avec nous, donc en tant que H / T pour lui, qui n'a jamais pu voir le succès que CentOS a connu, je vous présente. ..Rocky Linux "</i><br>
+<i>"En repensant aux premiers jours de CentOS ... Mon cofondateur était Rocky McGaugh. Il n'est plus avec nous, c'est donc pour lui lever mon chapeau, lui qui n'a jamais pu voir le succès que CentOS a connu, que je vous présente. ..Rocky Linux "</i><br>
 — Gregory Kurtzer, Fondateur
 </p>
 
-## Au propos de nous
+## À propos de nous
 
 Rocky Linux est un système d'exploitation d'entreprise communautaire conçu pour être 100% compatible bogue pour bogue avec Enterprise Linux, maintenant que CentOS a changé de direction.
 
@@ -15,17 +15,17 @@ Rocky Linux est un système d'exploitation d'entreprise communautaire conçu pou
 
 > **Q:** Que voulez-vous dire, "CentOS a changé de direction?"
 
-Le projet CentOS [récemment annoncé](https://blog.centos.org/2020/12/future-is-centos-stream/) un changement de stratégie pour CentOS. Alors que CentOS existait auparavant en tant que version *en aval* de son fournisseur en amont (il reçoit des correctifs et des mises à jour après que le fournisseur en amont le fasse), il passera à une version *en amont* (test des correctifs et des mises à jour *avant* l'inclusion dans le fournisseur en amont).
+Le projet CentOS a [récemment annoncé](https://blog.centos.org/2020/12/future-is-centos-stream/) un changement de stratégie pour CentOS. Alors que CentOS existait auparavant en tant que version *en aval* de son fournisseur en amont (il reçoit des correctifs et des mises à jour après que le fournisseur en amont le fasse), il passera à une version *en amont* (test des correctifs et des mises à jour *avant* l'inclusion dans le fournisseur en amont).
 
-De plus, la prise en charge de CentOS Linux 8 a été interrompue, du 31 mai 2029 au 31 décembre 2021.
+De plus, la durée de la prise en charge de CentOS Linux 8 a été raccourcie, du 31 mai 2029 au 31 décembre 2021.
 
 > **Q:** Alors, d'où vient Rocky Linux?
 
-Rocky Linux vise à fonctionner comme une construction en aval comme CentOS l'avait fait précédemment, en construisant des versions après qu'elles aient été ajoutées au fournisseur en amont, pas avant.
+Rocky Linux vise à fonctionner comme une construction en aval tel que CentOS l'avait fait précédemment, en construisant des versions après qu'elles aient été ajoutées au fournisseur en amont, pas avant.
 
 > **Q:** Quand va-t-il sortir?
 
-Il n'y a actuellement pas d'ETA pour la publication.
+Il n'y a actuellement pas de date de sortie pour la publication.
 
 > **Q:** Quelle est la vision de Rocky Linux?
 
@@ -67,7 +67,7 @@ Merci pour votre intérêt à contribuer au projet.
 
 Si vous êtes un développeur, un architecte, un ingénieur ou si vous cherchez à apporter votre temps et votre expertise, veuillez envisager de rejoindre [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) et sauter dans le canal le plus pertinent à vos intérêts.
 
-Si vous souhaitez faire un don ou parrainer le projet, veuillez envoyer un e-mail hello@rockylinux.org. 
+Si vous souhaitez faire un don ou parrainer le projet, veuillez envoyer un e-mail à hello@rockylinux.org. 
 
 **REMARQUE**: Nous **n'avons** actuellement aucun crowdsourcing officiel établi.
 

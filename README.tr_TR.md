@@ -15,7 +15,7 @@ Rocky Linux, artık CentOS yön değiştirdiğinden, Enterprise Linux ile %100 b
 
 > **Q:** "CentOS yön değiştirdi" ne demek ? 
 
-CentOS projesi [yakın zamanda duyuruldu](https://blog.centos.org/2020/12/future-is-centos-stream/) CentOS için stratejide bir değişiklik yaptı. Daha önce CentOS, yukarı akış satıcısının bir aşağı akış yapısı olarak mevcut iken (yukarı akış sürüm çıktıktan sonra yamaları ve güncellemeleri alır), yukarı akışlı bir yapıya geçecek(yukarı akış sürüme dahil edilmeden önce yamaları ve güncellemeleri test etmektir).
+CentOS projesi yakın zamanda CentOS için stratejide bir değişiklik yapıldığını [duyurdu](https://blog.centos.org/2020/12/future-is-centos-stream/). Daha önce CentOS, upstream sağlayıcısının bir downstream yapısı olarak mevcut iken (upstream sürüm çıktıktan sonra yamaları ve güncellemeleri alır), upstream bir yapıya geçecek (upstream sağlayıcıya dahil edilmeden önce yamalar ve güncellemeler test edilir).
 
 Ek olarak, CentOS Linux 8 desteği 31 Mayıs 2029'dan 31 Aralık 2021'e kadar çekildi.
 
@@ -66,7 +66,7 @@ Diğer tüm sorularınız için: hello@rockylinux.org
 
 Projeye katkıda bulunmaya gösterdiğiniz ilgi için teşekkür ederiz.
 
-Bir geliştirici, mimar, mühendis veya başka bir şekilde zamanınız ve/veya uzmanlığınız ile  katkıda bulunmayı düşünüyorsanız, lütfen [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)'e giriş yapın ve ilgi alanlarınızla en alakalı kanala katılın.
+Bir geliştirici, mimar, mühendis veya başka bir şekilde zamanınız ve/veya uzmanlığınız ile katkıda bulunmayı düşünüyorsanız, lütfen [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)'e giriş yapın ve ilgi alanlarınızla en alakalı kanala katılın.
 
 Projeye bağış yapmak veya sponsorluk yapmakla ilgileniyorsanız, lütfen hello@rockylinux.org adresine e-posta gönderin.
 

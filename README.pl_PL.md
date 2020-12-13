@@ -13,46 +13,46 @@ Rocky Linux jest systemem operacyjnym klasy korporacyjnej zaprojektowanym tak, a
 
 ## Najczęściej zadawane pytania (FAQ)
 
-> **Q:** Co masz na myśli mówiąc "zmiana kierunku rozwoju CentOS?"
+> **P:** Co masz na myśli mówiąc "zmiana kierunku rozwoju CentOS?"
 
 Projekt CentOS [niedawne ogłoszenie](https://blog.centos.org/2020/12/future-is-centos-stream/) zmienił strategię kierunku rozwoju CentOS. mając na uwadze, że wcześniej CentOS istniał jako kompilacja tzw. *downstream* swojego dostawcy wyższego szczebla (otrzymuje łatki i aktualizacje po tym, jak dostawca wyższego szczebla je otrzymuje), zostanie on przeniesiony do kompilacji *upstream* (testowanie łatek i aktualizacji *przed włączeniem* do dostawcy wyższego szczebla).
 
 Dodatkowo, wsparcie dla CentOS Linux 8 zostało skrócone, od 31 maja 2029 do 31 grudnia 2021.
 
-> **Q:** So where does Rocky Linux come in?
+> **P:** Więc gdzie jest miejsce dla Rocky Linux??
 
-Rocky Linux aims to function as a downstream build as CentOS had done previously, building releases after they have been added to the upstream vendor, not before.
+Rocky Linux ma na celu funkcjonowanie jako kompilacja downstream, tak jak CentOS robił to wcześniej, budując wydania po dodaniu ich do dostawcy upstream, a nie wcześniej.
 
-> **Q:** When will it be released?
+> **P:** Kiedy zostanie wydany?
 
-There is not currently an ETA for release.
+Obecnie nie ma ETA (szacowany czas realizacji) do wydania.
 
-> **Q:** What is the vision for Rocky Linux?
+> **P:** Jaka jest wizja Rocky Linux?
 
-A **solid**, **stable**, and **transparent** alternative for production environments, developed *by* the community *for* the community.
+**Solidna**, **stabilna**, i **transparentna** alternatywa dla środowisk produkcyjnych, opracowana *przez* społeczność *dla* społeczności.
 
-> **Q:** Who drives Rocky Linux?
+> **P:** Kto tworzy Rocky Linux?
 
-We all do, Rocky Linux is a community-driven project and always will be. Rocky Linux will not be sold or driven by corporate interest.
+Wszyscy to robimy, Rocky Linux jest projektem kierowanym przez społeczność i zawsze nim będzie. Rocky Linux nie będzie sprzedawany ani tworzony przez interes korporacyjny.
 
-> **Q:** How can I get involved?
+> **P:** Jak mogę się zaangażować?
 
-Please view the [contributing](#contributing) section below.
+Proszę zapoznać się z sekcją [Udział](#Udział) poniżej.
 
-## Contact
+## Kontakt
 
-| Team                          | Contact                                   |
+| Zespół                        | Kontakt                                   |
 |-------------------------------|-------------------------------------------|
-| Press                         | outreach@rockylinux.org                   |
-| Development                   | development@rockylinux.org                |
-| Infrastructure                | infrastructure@rockylinux.org             |
-| Security                      | security@rockylinux.org                   |
-| Web and Branding              | web@rockylinux.org, brand@rockylinux.com  |
+| Prasa                         | outreach@rockylinux.org                   |
+| Rozwój                        | development@rockylinux.org                |
+| Infrastruktura                | infrastructure@rockylinux.org             |
+| Bezpieczeństwo                | security@rockylinux.org                   |
+| Strona i branding             | web@rockylinux.org, brand@rockylinux.com  |
 
 
-For all other questions: hello@rockylinux.org
+W przypadku wszystkich innych pytań: hello@rockylinux.org
 
-## Stay Informed
+## Bądź Informowany
 
 * [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)
 * [Forum](https://forums.rockylinux.org/)
@@ -62,19 +62,19 @@ For all other questions: hello@rockylinux.org
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
-## Contributing
+## Udział
 
-Thank you for your interest in contributing to the project.
+Dziękuję za zainteresowanie udziałem w projekcie..
 
-If you are a developer, architect, engineer, or otherwise looking to contribute your time and expertise, please consider joining the [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) and jumping into the most relevant channel to your interests.
+Jeśli jesteś deweloperem, architektem, inżynierem lub w inny sposób chcesz poświęcić swój czas i wiedzę, rozważ przyłączenie się do projektu: [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) i przejdź do najbardziej odpowiedniego kanału dla Twoich zainteresowań.
 
-If you are interested in donating or sponsoring the project, please email hello@rockylinux.org.
+Jeśli są Państwo zainteresowani przekazaniem lub sponsorowaniem projektu, prosimy o kontakt mailowy hello@rockylinux.org.
 
-**NOTE**: We **do not** currently have any official crowdsourcing established.
+**UWAGA**: Obecnie **nie posiadamy** żadnego oficjalnego kanału zbiórek.
 
-## Special Thanks
+## Specjalne Podziękowania
 
-We would like to thank the following groups for their support thus far on the project:
+Chcielibyśmy podziękować następującym grupom za ich dotychczasowe wsparcie dla projektu:
 * [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)

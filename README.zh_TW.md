@@ -9,13 +9,13 @@
 
 ## 關於
 
-由於 CentOS 的開發目標轉變， Rocky Linux 是來自社群的企業級作業系統，旨在與 RHEL (Red Hat Enterprise Linux) 提供完全的錯誤相容性。
+由於 CentOS 的開發目標轉變， Rocky Linux 是來自社群的企業級作業系統，旨在與 RHEL (Red Hat Enterprise Linux) 提供一樣的錯誤相容性。
 
 ## 常見問題
 
 > **Q:** 「CentOS 的開發目標轉變」是什麼意思？
 
-CentOS 專案在[近日宣布](https://blog.centos.org/2020/12/future-is-centos-stream/)開發策略的轉變。以往 CentOS 相對上游組建而言，較晚收到修補及更新；未來這狀況將相反， CentOS 成了前測版本，會比原先的上游組建更早獲得測試版修補及更新。
+CentOS 專案在[近日宣布](https://blog.centos.org/2020/12/future-is-centos-stream/)開發策略的轉變。以往 CentOS 相對上游組建而言，較晚收到修補及更新；未來這狀況將相反， CentOS Stream 成了前測版本，會比原先的上游組建更早獲得測試版修補及更新。
 
 此外，CentOS Linux 8 的官方支援也從2029年5月31日被縮短至2021年12月31日。
 

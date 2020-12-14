@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-<i>"Visszagondolva a CentOS korai napjaira... Társalapítóm Rocky McGaugh volt. Már nincs köztünk, ezért H/T-ként, aki soha nem láthatta a CentOS sikerét, bemutatom Önnek...Rocky Linux"</i><br>
+<i>"Visszagondolva a CentOS korai napjaira...Társalapítóm Rocky McGaugh volt. Már nincs köztünk, ezért H/T-ként, aki soha nem láthatta a CentOS sikerét, bemutatom Önnek...Rocky Linux"</i><br>
 — Gregory Kurtzer, Alapító
 </p>
 
 ## Körülbelül
 
-Rocky Linux egy közösségi vállalati operációs rendszer, amelyet úgy terveztek, hogy 100%-osan hibakeresés-kompatibilitás érdekében kompatibilis legyen az Enterprise Linux rendszerrel most, amikor a CentOS irányt váltott.
+Rocky Linux egy közösség által müködtetett vállalati operációs rendszer, amelyet úgy terveztek, hogy 100%-osan hibakeresés-kompatibilitás érdekében kompatibilis legyen az Enterprise Linux rendszerrel most, amikor a CentOS irányt váltott.
 
 ## Gyakran Ismételt Kérdések
 
@@ -17,7 +17,7 @@ Rocky Linux egy közösségi vállalati operációs rendszer, amelyet úgy terve
 
 A CentOS projekt [recently announced](https://blog.centos.org/2020/12/future-is-centos-stream/) itt megtalálja a CentOS stratégiájának változását. Korábban a CentOS az upstream szállítójának *downstream* buildjeként létezett (javításokat és frissítéseket kapott, miután az upstream szolgáltató megkapta), de most már áttér egy *upstream* buildre (javítások és frissítések tesztelése az upstream szállítóba történő felvétel *előtt*).
 
-Ezenkívül a CentOS Linux 8 támogatása is megszakad, Május 31-től, 2029 December 31-ig, 2021.
+Ezenkívül a CentOS Linux 8 támogatása is megszűnik 2021-ben.
 
 > **Q:** Tehát miért jött létre a Rocky Linux?
 

@@ -35,7 +35,7 @@ Det gör vi alla, Rocky Linux är ett gemenskaps-drivet projekt och kommer allti
 
 > **Q:** Hur kan jag engagera mig?
 
-Se sektionen om hur man [bidrar](#Hur man bidrar) nedan.
+Se sektionen om hur man [bidrar](#Bidra) nedan.
 
 ## Kontakt
 | Team 	                        | Kontakt
@@ -59,7 +59,7 @@ För alla andra frågor: hello@rockylinux.org
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
-## Hur man bidrar
+## Bidra
 
 Tack för att du visat intresse till att bidra till projektet.
 

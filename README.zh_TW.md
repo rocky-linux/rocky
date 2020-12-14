@@ -45,7 +45,7 @@ Rocky Linux 的目標是成為像以往 CentOS 一樣的下游組建，在上游
 |-----------------------|-------------------------------------------|
 | 媒體事務               | outreach@rockylinux.org                   |
 | 開發                  | development@rockylinux.org                |
-| 基礎設施(*)            | infrastructure@rockylinux.org             |
+| 基礎設施               | infrastructure@rockylinux.org             |
 | 安全                  | security@rockylinux.org                   |
 | Web & Branding       | web@rockylinux.org, brand@rockylinux.com  |
 

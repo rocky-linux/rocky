@@ -15,7 +15,7 @@ Rocky Linux egy közösség által müködtetett vállalati operációs rendszer
 
 > **Q:** Mit értesz azalatt, hogy "CentOS irányt váltott?"
 
-A CentOS projekt [recently announced](https://blog.centos.org/2020/12/future-is-centos-stream/) itt megtalálja a CentOS stratégiájának változását. Korábban a CentOS az upstream szállítójának *downstream* buildjeként létezett (javításokat és frissítéseket kapott, miután az upstream szolgáltató megkapta), de most már áttér egy *upstream* buildre (javítások és frissítések tesztelése az upstream szállítóba történő felvétel *előtt*).
+A CentOS projektről a bejegyzést [itt](https://blog.centos.org/2020/12/future-is-centos-stream/) megtalálja a CentOS stratégiájának változását. Korábban a CentOS az upstream szállítójának *downstream* buildjeként létezett (javításokat és frissítéseket kapott, miután az upstream szolgáltató megkapta), de most már áttér egy *upstream* buildre (javítások és frissítések tesztelése az upstream szállítóba történő felvétel *előtt*).
 
 Ezenkívül a CentOS Linux 8 támogatása is megszűnik 2021-ben.
 

@@ -37,7 +37,7 @@ Mindannyian mi a közösség, Rocky Linux egy közösség által vezérelt proje
 
 > **Q:** Hogy kapcsolódhatok be?
 
-Kérjük tekintse meg a [contributing](#contributing) szakasz alatt.
+Kérjük tekintse meg a [hozzájárulás](#Hozzájárulás) szakasz alatt.
 
 ## Fejlesztő csapat
 

@@ -44,7 +44,7 @@ Per piacere leggi la sezione [contribuire](#contribuire) in fondo.
 
 | Team                          | Contatto                                  |
 |-------------------------------|-------------------------------------------|
-| Stampa                        | outreach@rockylinux.org                   |
+| Ufficio Stampa                | outreach@rockylinux.org                   |
 | Sviluppo                      | development@rockylinux.org                |
 | Infrastruttura                | infrastructure@rockylinux.org             |
 | Sicurezza                     | security@rockylinux.org                   |
@@ -67,7 +67,7 @@ Per tutte le altre domande: hello@rockylinux.org
 
 Grazie per il tuo interesse a contribuire al progetto.
 
-Se sei uno sviluppatore, architect o ingegnere, o in ogni caso interessato a contribuire il tuo tempo e le tue competenze considera di iscriverti al nostro [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) ed entrare nei canali che rilevanti per i tuoi interessi.
+Se sei uno sviluppatore, architect, ingegnere o in ogni caso interessato a contribuire il tuo tempo e le tue competenze allora considera di iscriverti al nostro [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) ed entrare nei canali più rilevanti per i tuoi interessi.
 
 Se sei interessato a donare o sponsorizzare il progetto, per piacere scrivi a hello@rockylinux.org
 
@@ -75,7 +75,8 @@ Se sei interessato a donare o sponsorizzare il progetto, per piacere scrivi a he
 
 ## Ringraziamenti speciali
 
-Vorremmo ringraziare i seguenti gruppi per il loro supporto fin qui sul progetto:
+Vorremmo ringraziare i seguenti gruppi per il supporto al progetto fin qui mostrato:
+
 * [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)

@@ -47,7 +47,7 @@ Rocky Linux的目标是像CentOS以前那样充当下游构建，在向上游供
 | 开发                           | development@rockylinux.org     |
 | 基础建设                       | infrastructure@rockylinux.org  |
 | 安全                           | security@rockylinux.org        |
-| Web                           | web@rockylinux.org             |
+| 主页和品牌                      | web@rockylinux.org, brand@rockylinux.com |
 
 
 对所有其它的问题: hello@rockylinux.org

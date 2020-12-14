@@ -17,7 +17,7 @@ Rocky Linux est un système d'exploitation d'entreprise communautaire conçu pou
 
 Le projet CentOS a [récemment annoncé](https://blog.centos.org/2020/12/future-is-centos-stream/) un changement de stratégie pour CentOS. Alors que CentOS existait auparavant en tant que version *en aval* de son fournisseur en amont (il reçoit des correctifs et des mises à jour après que le fournisseur en amont le fasse), il passera à une version *en amont* (test des correctifs et des mises à jour *avant* l'inclusion dans le fournisseur en amont).
 
-De plus, la durée de la prise en charge de CentOS Linux 8 a été raccourcie, du 31 mai 2029 au 31 décembre 2021.
+De plus, la durée de support officiel de CentOS Linux 8 a été raccourcie, du 31 mai 2029 au 31 décembre 2021.
 
 > **Q:** Alors, d'où vient Rocky Linux?
 
@@ -61,7 +61,7 @@ Pour toutes autres questions: hello@rockylinux.org
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
-## Contribuant
+## Contribuer
 
 Merci pour votre intérêt à contribuer au projet.
 
@@ -69,9 +69,9 @@ Si vous êtes un développeur, un architecte, un ingénieur ou si vous cherchez 
 
 Si vous souhaitez faire un don ou parrainer le projet, veuillez envoyer un e-mail à hello@rockylinux.org. 
 
-**REMARQUE**: Nous **n'avons** actuellement aucun crowdsourcing officiel établi.
+**REMARQUE**: Nous **n'avons** actuellement aucun financement participatif officiel établi.
 
-## Remerciement spécial
+## Remerciements spéciaux
 
 Nous tenons à remercier les groupes suivants pour leur soutien à ce jour sur le projet:
 * [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)

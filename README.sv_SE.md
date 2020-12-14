@@ -35,7 +35,7 @@ Det gör vi alla, Rocky Linux är ett gemenskaps-drivet projekt och kommer allti
 
 > **Q:** Hur kan jag engagera mig?
 
-Se sektionen om hur man [bidrar](#contributing) nedan.
+Se sektionen om hur man [bidrar](#Hur man bidrar) nedan.
 
 ## Kontakt
 | Team 	                        | Kontakt

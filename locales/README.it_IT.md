@@ -5,42 +5,42 @@
 </p>
 
 <p align="center">
-<i>"Ripensando ai primi giorni di CentOS... Il mio co-fondatore fu Rocky McGaugh. Lui non è più con noi, quindi in suo ricordo e rispetto, dato che non ha potuto vedere quanto successo CentOS ha riscosso, vi presento...Rocky Linux"</i><br>
+<i>"Ripenso ai primi giorni di CentOS... al co-fondatore Rocky McGaugh. Lui non è più con noi ma è con profodo orgoglio e rispetto, non avendo potuto potuto vedere quanto successo CentOS abbia riscosso, che in suo onore vi presento...Rocky Linux"</i><br>
 — Gregory Kurtzer, Fondatore
 </p>
 
-## About
+## Cos'è Rocky Linux
 
 Rocky Linux è un sistema operativo enterprise basato sulla community e progettato per essere 100% compatibile bug-per-bug con Enterprise Linux, ora che CentOS ha cambiato direzione.
 
-## Domande frequenti (Frequently Asked Questions)
+## Domande più frequenti
 
-> **Q:** In che senso, "CentOS ha cambiato direzione?"
+> **D:** In che senso, "CentOS ha cambiato direzione?"
 
-Il progetto CentOS [ha recentemente annunciato](https://blog.centos.org/2020/12/future-is-centos-stream/) un cambio di strategia per CentOS. Laddove precedentemente CentOS esisteva come *downstream* build del suo vendor (riceveva patch e aggiornamenti dopo l'upstream vendor), adesso diventerà una *upstream* build (testing patches e aggiornamenti ricevuti *prima* dell'upstream vendor).
+Il progetto CentOS [ha recentemente annunciato](https://blog.centos.org/2020/12/future-is-centos-stream/) un cambio di strategia per CentOS. Laddove precedentemente CentOS esisteva come *downstream* build del suo vendor (riceveva patch e aggiornamenti dopo l'upstream vendor), diventerà una *upstream* build (testing patches e aggiornamenti ricevuti *prima* dell'upstream vendor).
 
-Inoltre, il supporto per CentOS Linux 8 è stato accorciato, dal 31 Maggio 2029 al 31 Dicembre 2021.
+Inoltre, il supporto per CentOS Linux 8 è stato ridotto anticipando la data di end-of-support dal 31 Maggio 2029 al 31 Dicembre 2021.
 
 
-> **Q:** Quindi come si posiziona Rocky Linux?
+> **D:** Come si posiziona, quindi, Rocky Linux?
 
 Rocky Linux punta ad essere una downstream build come lo è stato CentOS in precedenza, effettuando rilasci dopo l'upstream vendor, non prima.
 
-> **Q:** Quando sarà rilasciato?
+> **D:** Quando sarà rilasciato?
 
 Non c'è ancora un ETA per il rilascio.
 
-> **Q:** Qual è la vision per Rocky Linux?
+> **D:** Qual è la vision per Rocky Linux?
 
-Un'alternativa **solida**, **stabile**, e **trasparente** per gli ambienti di produzione, sviluppata *dalla* community *per* la community.
+Un'alternativa **solida**, **stabile** e **trasparente** per gli ambienti di produzione, sviluppata *dalla* community *per* la community.
 
-> **Q:** Chi guida lo sviluppo di Rocky Linux?
+> **D:** Chi guida lo sviluppo di Rocky Linux?
 
-Noi tutti, Rocky Linux è un progetto community-driven e lo sarà per sempre. Rocky Linux non sarà venduto o guidato da interessi aziendali.
+Rocky Linux è un progetto community-driven e lo sarà per sempre. Rocky Linux non sarà venduto o guidato da interessi aziendali.
 
-> **Q:** Come posso partecipare?
+> **D:** Come posso partecipare?
 
-Per piacere leggi la sezione [contribuire](#contribuire) in fondo.
+Ti rimandiamo alla sezione "[come contribuire](#come-contribuire)".
 
 ## Contatti
 
@@ -65,15 +65,15 @@ Per tutte le altre domande: hello@rockylinux.org
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
-## Contribuire
+## Come contribuire
 
 Grazie per il tuo interesse a contribuire al progetto.
 
-Se sei uno sviluppatore, architect, ingegnere o in ogni caso interessato a contribuire il tuo tempo e le tue competenze allora considera di iscriverti al nostro [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) ed entrare nei canali più rilevanti per i tuoi interessi.
+Se sei uno sviluppatore, un architect, un ingegnere o più in generale sei interessato a contribuire donando il tuo tempo e le tue competenze, iscriverti al nostro [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) e partecipa ai canali più rilevanti in base ai tuoi interessi.
 
-Se sei interessato a donare o sponsorizzare il progetto, per piacere scrivi a hello@rockylinux.org
+Se sei interessato a donare o sponsorizzare il progetto, puoi scrivere a hello@rockylinux.org
 
-**NOTA**: Al momento noi **non** abbiamo alcuna forma di crowdsourcing.
+**NOTA**: Al momento **non** abbiamo alcuna forma di crowdsourcing.
 
 ## Ringraziamenti speciali
 

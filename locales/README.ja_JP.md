@@ -1,10 +1,11 @@
 <p align="center">
+<a href="https://rockylinux.org/">
 <img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+</a>
 </p>
 
 <p align="center">
-<i>
-"CentOSの初期の頃を振り返ってみると... 私の共同創設者はロッキー・マクガウ(Rocky McGaugh)でした。彼はもう私たちとは一緒にいない、そんな彼への感謝を込めて、彼はCentOSの成功を決して見ることができないが、私は紹介します...Rock Linuxを。"<i><br>
+<i>"CentOSの初期の頃を振り返ってみると... 私の共同創設者はロッキー・マクガウ(Rocky McGaugh)でした。彼はもう私たちとは一緒にいない、そんな彼への感謝を込めて、彼はCentOSの成功を決して見ることができないが、私は紹介します...Rock Linuxを。"<i><br>
 創設者、グレゴリー・クルツァー(Gregory Kurtzer)
 </p>
 

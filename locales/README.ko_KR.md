@@ -1,6 +1,9 @@
 <p align="center">
+<a href="https://rockylinux.org/">
 <img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+</a>
 </p>
+
 <p align="center">
 <i>CentOS 초기 시절을 떠올리며... 제 공동 설립자는 Rocky McGaugh 였습니다. 이제 우리 곁을 비운.. CentOS의 성공을 보지 못한 그에게 경의를 표하는 것으로... Rocky Linux를 소개합니다.</i><br>
 — Gregory Kurtzer, Founder

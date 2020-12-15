@@ -1,5 +1,7 @@
 <p align="center">
+<a href="https://rockylinux.org/">
 <img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Logotipo Rocky Linux">
+</a>
 </p>
 
 <p align="center">

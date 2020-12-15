@@ -17,7 +17,7 @@ Rocky Linux egy közösség által müködtetett vállalati operációs rendszer
 
 A CentOS projektről a bejegyzést [itt](https://blog.centos.org/2020/12/future-is-centos-stream/) megtalálja a CentOS stratégiájának változását. Korábban a CentOS az upstream szállítójának *downstream* buildjeként létezett (javításokat és frissítéseket kapott, miután az upstream szolgáltató megkapta), de most már áttér egy *upstream* buildre (javítások és frissítések tesztelése az upstream szállítóba történő felvétel *előtt*).
 
-Ezenkívül a CentOS Linux 8 támogatása is megszűnik 2021-ben.
+Ezenkívül a CentOS Linux 8 támogatása 2029. május 31. helyett 2021. december 31-én fog megszűnni.
 
 > **Q:** Tehát miért jött létre a Rocky Linux?
 

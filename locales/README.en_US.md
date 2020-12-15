@@ -7,6 +7,23 @@
 — Gregory Kurtzer, Founder
 </p>
 
+### Other Languages:
+
+ -  [German / Deutsch](https://github.com/Meat0Project/rocky/blob/main/locales/README.de_DE.md)
+ -  [Spanish / español / castellano](https://github.com/Meat0Project/rocky/blob/main/locales/README.es_ES.md)
+ -  [French / français](https://github.com/Meat0Project/rocky/blob/main/locales/README.fr_FR.md)
+ -  [Italian / italiano](https://github.com/Meat0Project/rocky/blob/main/locales/README.it_IT.md)
+ -  [Japanese / 日本語](https://github.com/Meat0Project/rocky/blob/main/locales/README.ja_JP.md)
+ -  [Korean / 한국어 [韓國語]](https://github.com/Meat0Project/rocky/blob/main/locales/README.ko_KR.md)
+ -  [Portuguese (Brazil)](https://github.com/Meat0Project/rocky/blob/main/locales/README.pt_BR.md)
+ -  [Russian / Русский язык](https://github.com/Meat0Project/rocky/blob/main/locales/README.ru_RU.md)
+ -  [Chinese / 中文](https://github.com/Meat0Project/rocky/blob/main/locales/README.zh_CN.md)
+ -  [Turkish / Türkçe](https://github.com/Meat0Project/rocky/blob/main/locales/README.tr_TR.md)
+ -  [Swedish / Svenska](https://github.com/Meat0Project/rocky/blob/main/locales/README.sv_SE.md)
+ -  [Chinese traditional / 中國傳統的](https://github.com/Meat0Project/rocky/blob/main/locales/README.zh_TW.md)
+ 
+
+
 ## About
 
 Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux, now that CentOS has shifted direction.

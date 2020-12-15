@@ -3,16 +3,18 @@
 <img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
 </a>
 </p>
+ 
 
-<p align="center">
+<p dir="rtl" align="center">
 <i>"بالعودة إلى أيام Centos الأولى ... رفيقي المؤسس Rocky McGaugh. فارقنا ولم يعد موجودا، بأسمه الذي لن يستطييع أن يرى النجاح الذس حققه Centos، أقدم لكم ... Rocky Linux"</i><br>
 — جورجي كرتزر, المؤسس
 </p>
 
-
 ## حول
+<span dir="rtl">
+  Rocky Linux نظام تشغيل مؤسسي مجتمعي صمم ليكون متوافقا 100% علة بعلة مع لينكس المؤسسي، بعدما غير الآن Centos اتجاهه.
+</span>
 
-Rocky Linux نظام تشغيل مؤسسي مجتمعي صمم ليكون متوافقا 100% علة بعلة مع لينكس المؤسسي، بعدما غير الآن Centos اتجاهه.
 
 ## الإسئلة الشائعة
 

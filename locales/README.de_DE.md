@@ -39,7 +39,7 @@ Wir alle! Rocky Linux ist ein Community-basiertes Projekt und wird es immer sein
 
 > **F:** Wie kann ich mich engagieren?
 
-Bitte lies den [contributing](#contributing) Abschnitt unten.
+Bitte lies den [Mitarbeit](#mitarbeit) Abschnitt unten.
 
 ## Kontakt
 

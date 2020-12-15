@@ -67,7 +67,7 @@ Bedankt voor je interesse om bij te dragen aan het project.
 
 Als je een ontwikkelaar, acrhitect, engineer of iets anders en op zoek bent om jouw tijd en expertise bij te dragen, meld je dan aan bij onze [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) en spring in het voor jou meest relevante kanaal/kanalen.
 
-Ale je geinteresseerd bent in een donatie of sposoring van het project, mail dan naar hello@rockylinux.org.
+Ale je geïnteresseerd bent in een donatie of sponsoring van het project, mail dan naar hello@rockylinux.org.
 
 **OPMERKING**: Op dit moment hebben **we** geen officieel crowdsourcing programma voorzien.
 

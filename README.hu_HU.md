@@ -66,7 +66,7 @@ Minden más kérdés esetén: hello@rockylinux.org
 
 Köszönjük érdeklődését a projektben való részvétel iránt.
 
-Ha Ön fejlesztő, építész, mérnök vagy más módon kíván hozzájárulni akkor kérjük vegye fontolóra a csatlakozást [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) oda csatlakozzon be amelyik az érdeklődésének a legmegfelelőbb.
+Ha Ön fejlesztő, építész, mérnök vagy más módon kíván hozzájárulni akkor kérjük vegye fontolóra a csatlakozást [Slack-hoz](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ). Csatlakozzon ahhoz a csatornához amelyik az érdeklődésének a legmegfelelőbb.
 
 Ha projektett támogatni vagy szponzorálná akkor kérjük, küldjön e-mailt hello@rockylinux.org.
 

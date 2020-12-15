@@ -55,7 +55,7 @@ Por cualquier otra pregunta: hello@rockylinux.org
 
 ## Mantente Informado
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)
+* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
 * [Foro](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -67,7 +67,7 @@ Por cualquier otra pregunta: hello@rockylinux.org
 
 Gracias por tu interés en contribuir al proyecto.
 
-Si eres un desarrollador, arquitecto, ingeniero, o estás buscando contribuir tu tiempo y experiencia de cualquier otra forma, por favor considera unirte al [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) y sumarte al canal más relevante a tus intereses.
+Si eres un desarrollador, arquitecto, ingeniero, o estás buscando contribuir tu tiempo y experiencia de cualquier otra forma, por favor considera unirte al [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) y sumarte al canal más relevante a tus intereses.
 
 Si estás interesado en donar o patrocinar el proyecto, por favor envía un email a hello@rockylinux.org.
 

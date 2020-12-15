@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-<i>"回想起CentOS初期的时光...我的联合创始人是 Rocky McGaugh。他已经不在我们身边了，他从来没能看到过 CentOS 的成功，所以对他来说作为一个致敬，我向你们介绍…Rocky Linux"</i><br>
-— Gregory Kurtzer, Founder
+<i>"回顾CentOS最初的时光...那时我们的联合创始人是Rocky McGangh。但他已经不在了，也未曾目睹CentOS后来的成功，因此作为一个向他的致敬，我将向你们介绍...Rocky Linux"</i><br>
+— Gregory Kurtzer, 创始人
 </p>
 
 ## 关于
 
-由于CentOS已经改变了发展方向, Rocky Linux是一个社区企业操作系统，旨在与企业Linux实现100％错误兼容。
+由于CentOS已经改变了发展方向, Rocky Linux作为一个社区企业操作系统，旨在与企业Linux实现100％错误兼容。
 
 ## 常见问题解答
 
@@ -31,7 +31,7 @@ Rocky Linux的目标是像CentOS以前那样充当下游构建，在向上游供
 
 > **Q:** RockyLinux的愿景是什么？
 
-一个 **坚固**, **稳定**, 并且 **透明** 生产环境替代品, *由*社区*为*社区开发。
+一个 **坚固**, **稳定**, 并且 **透明** 生产环境替代品, **由社区开发, 且为社区开发**。
 
 > **Q:** 谁来驱动 Rocky Linux？
 
@@ -43,16 +43,16 @@ Rocky Linux的目标是像CentOS以前那样充当下游构建，在向上游供
 
 ## 联系
 
-| 团队                           | 联系方式                        |
-|-------------------------------|--------------------------------|
-| 报道                           | outreach@rockylinux.org        |
-| 开发                           | development@rockylinux.org     |
-| 基础建设                       | infrastructure@rockylinux.org  |
-| 安全                           | security@rockylinux.org        |
-| Web                           | web@rockylinux.org             |
+| 团队                          | 联系方式                                  |
+|-------------------------------|-------------------------------------------|
+| 报道                          | outreach@rockylinux.org                   |
+| 开发                          | development@rockylinux.org                |
+| 基础建设                      | infrastructure@rockylinux.org             |
+| 安全                          | security@rockylinux.org                   |
+| Web and Branding              | web@rockylinux.org, brand@rockylinux.com  |
 
 
-对所有其它的问题: hello@rockylinux.org
+其它所有问题: hello@rockylinux.org
 
 ## 随时了解情况
 
@@ -66,7 +66,7 @@ Rocky Linux的目标是像CentOS以前那样充当下游构建，在向上游供
 
 ## 贡献
 
-感谢您对本项目的贡献的兴趣。
+感谢您有兴趣为本项目做出贡献。
 
 如果你是一名开发者, 设计师, 工程师, 或者想贡献你的时间和专业知识, 请考虑加入 [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) 进入与你的兴趣最相关的频道。
 

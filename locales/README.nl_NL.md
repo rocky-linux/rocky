@@ -16,7 +16,7 @@ Rocky Linux is een community enterprise besturingssysteem, ontwikkeld om 100%, b
 
 Het CentOS project [maakte](https://blog.centos.org/2020/12/future-is-centos-stream/) een verandering in strategie bekend voor CentOS. Waar CentOS tot voor kort bestond als een 'downstream' build van zijn upstream verkoper (het ontvangt patches en updates nadat de upstream verkoper deze doorvoert), zal het veranderen in een *upstream* build (patches en updates testen *voor* ingebruikname door de upstream verkoper). 
 
-Daarnaast wordt ondersteuning voor CentOS Linux 8 verkort van 31 Mei 2029 naar 31 December 20121.
+Daarnaast wordt ondersteuning voor CentOS Linux 8 verkort van 31 Mei 2029 naar 31 December 2021.
 
 > **V:** Dus, waar komt Rocky Linux te staan?
 

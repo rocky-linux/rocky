@@ -14,7 +14,7 @@ Rocky Linux is een community enterprise besturingssysteem, ontwikkeld om 100%, b
 
 > **V:** Wat bedoel je, CentOS is een andere weg ingeslagen?
 
-Het CentOS project [maakte](https://blog.centos.org/2020/12/future-is-centos-stream/) een verandering in strategie bekend voor CentOS. Waar CentOS tot voor kort bestond als een 'downstream' build van zijn upstream verkoper (het ontvangt patches en updates nadat de upstream verkoper deze doorvoert), zal het veranderen in een *upstream* build (patches en updates testen *voor* ingebruikname door de upstream verkoper). 
+Het CentOS project [maakte](https://blog.centos.org/2020/12/future-is-centos-stream/) een verandering in strategie bekend voor CentOS. Waar CentOS tot voor kort bestond als een 'downstream' build van zijn upstream leverancier (het ontvangt patches en updates nadat de upstream leverancier deze doorvoert), zal het veranderen in een *upstream* build (patches en updates testen *voor* ingebruikname door de upstream leverancier). 
 
 Daarnaast wordt ondersteuning voor CentOS Linux 8 verkort van 31 Mei 2029 naar 31 December 2021.
 

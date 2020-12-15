@@ -21,7 +21,6 @@ Daarnaast wordt ondersteuning voor CentOS Linux 8 verkort van 31 Mei 2029 naar 3
 > **V:** Dus, waar komt Rocky Linux te staan?
 
 Rocky Linux wil functioneren als downstream build zoals CentOS tot voor kort was, releases creeren nadat ze zijn toegevoegd bij de upstream verkoper, niet vooraf.
-Rocky Linux aims to function as a downstream build as CentOS had done previously, building releases after they have been added to the upstream vendor, not before.
 
 > **V:** Wanneer wordt het uitgegeven?
 

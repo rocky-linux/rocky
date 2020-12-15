@@ -13,7 +13,7 @@ Rocky Linux, artık CentOS yön değiştirdiğinden, Enterprise Linux ile %100 b
 
 ## Sıkça Sorulan Sorular
 
-> **Q:** "CentOS yön değiştirdi" ne demek ? 
+> **Q:** "CentOS yön değiştirdi" ne demek? 
 
 CentOS projesi [yakın zamanda duyuruldu](https://blog.centos.org/2020/12/future-is-centos-stream/) CentOS için stratejide bir değişiklik yaptı. Daha önce CentOS, yukarı akış satıcısının bir aşağı akış yapısı olarak mevcut iken (yukarı akış sürüm çıktıktan sonra yamaları ve güncellemeleri alır), yukarı akışlı bir yapıya geçecek(yukarı akış sürüme dahil edilmeden önce yamaları ve güncellemeleri test etmektir).
 

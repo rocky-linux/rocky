@@ -70,7 +70,7 @@ Ha Ön fejlesztő, építész, mérnök vagy más módon kíván hozzájárulni 
 
 Ha projektett támogatni vagy szponzorálná akkor kérjük, küldjön e-mailt hello@rockylinux.org.
 
-**Megjegyzés**: Jelenleg **nincs** létrehozva hivatalos közösségi közreműködés.
+**Megjegyzés**: Jelenleg **nincs** létrehozva hivatalos crowdsourcing.
 
 ## Külön köszönet
 

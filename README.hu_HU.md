@@ -9,7 +9,7 @@
 
 ## Projektről
 
-Rocky Linux egy közösség által müködtetett vállalati operációs rendszer, amelyet úgy terveztek, hogy 100%-os hibakeresés-kompatibilitás érdekében kompatibilis legyen az Enterprise Linux rendszerrel most, amikor a CentOS irányt váltott.
+Rocky Linux a közösség által működtetett vállalati környezetbe szánt operációs rendszer, amelyet úgy terveztek, hogy 100%-os hibakeresés és kompatibilitás érdekében kompatibilis legyen az Enterprise Linux rendszerrel most, amikor a CentOS irányt váltott.
 
 ## Gyakran Ismételt Kérdések
 

@@ -54,7 +54,7 @@ Rocky Linux的目标是像CentOS以前那样充当下游构建，在向上游供
 
 ## 随时了解情况
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)
+* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
 * [论坛](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -66,7 +66,7 @@ Rocky Linux的目标是像CentOS以前那样充当下游构建，在向上游供
 
 感谢您对本项目的贡献的兴趣。
 
-如果你是一名开发者, 设计师, 工程师, 或者想贡献你的时间和专业知识, 请考虑加入 [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) 进入与你的兴趣最相关的频道。
+如果你是一名开发者, 设计师, 工程师, 或者想贡献你的时间和专业知识, 请考虑加入 [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) 进入与你的兴趣最相关的频道。
 
 如果你有兴趣捐赠或赞助这个项目，请发电子邮件到 hello@rockylinux.org。
 

@@ -54,7 +54,7 @@ Diğer tüm sorularınız için: hello@rockylinux.org
 
 ## Haberdar Olun
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)
+* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -66,7 +66,7 @@ Diğer tüm sorularınız için: hello@rockylinux.org
 
 Projeye katkıda bulunmaya gösterdiğiniz ilgi için teşekkür ederiz.
 
-Bir geliştirici, mimar, mühendis veya başka bir şekilde zamanınız ve/veya uzmanlığınız ile  katkıda bulunmayı düşünüyorsanız, lütfen [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)'e giriş yapın ve ilgi alanlarınızla en alakalı kanala katılın.
+Bir geliştirici, mimar, mühendis veya başka bir şekilde zamanınız ve/veya uzmanlığınız ile  katkıda bulunmayı düşünüyorsanız, lütfen [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)'e giriş yapın ve ilgi alanlarınızla en alakalı kanala katılın.
 
 Projeye bağış yapmak veya sponsorluk yapmakla ilgileniyorsanız, lütfen hello@rockylinux.org adresine e-posta gönderin.
 

@@ -8,7 +8,7 @@
 
 ## Over
 
-Rocky Linux is een community enterprise besturingssysteem, ontwikkeld om 100%, bug-voor-bug overeenkomstig met Enterprise Linux, omdat CentOS een andere weg is ingeslagen.
+Rocky Linux is een community enterprise besturingssysteem, ontwikkeld om 100%, bug-voor-bug overeenkomstig te zijn met Enterprise Linux, omdat CentOS een andere weg is ingeslagen.
 
 ## Veel gestelde vragen
 

@@ -70,7 +70,7 @@ Ha Ön fejlesztő, építész, mérnök vagy más módon kíván hozzájárulni 
 
 Ha projektett támogatni vagy szponzorálná akkor kérjük, küldjön e-mailt hello@rockylinux.org.
 
-**Megjegyzés**: Jelenleg **nincs** telepítve hivatalos tömeges beszerzés.
+**Megjegyzés**: Jelenleg **nincs** létrehozva hivatalos tömeges beszerzés.
 
 ## Külön köszönet
 

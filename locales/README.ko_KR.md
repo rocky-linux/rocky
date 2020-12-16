@@ -83,3 +83,19 @@ Rocky Linux의 목표는 이전이 아닌 업스트림 공급 업체에 버전�
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)
 * [FMI Groupe](https://www.fmi.fr/)
+
+## 다른 언어로 읽기
+
+* [de_DE](/locales/README.de_DE.md)
+* [en_US](/locales/README.en_US.md)
+* [es_ES](/locales/README.es_ES.md)
+* [fr_FR](/locales/README.fr_FR.md)
+* [it_IT](/locales/README.it_IT.md)
+* [ja_JP](/locales/README.ja_JP.md)
+* [ko_KR](/locales/README.ko_KR.md)
+* [pt_BR](/locales/README.pt_BR.md) 
+* [ru_RU](/locales/README.ru_RU.md)
+* [sv_SE](/locales/README.sv_SE.md)
+* [tr_TR](/locales/README.tr_TR.md)
+* [zh_CN](/locales/README.zh_CN.md)
+* [zh_TW](/locales/README.zh_TW.md)

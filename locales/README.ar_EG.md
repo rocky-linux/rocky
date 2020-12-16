@@ -1,3 +1,4 @@
+<div dir="rtl" >
 <p align="center">
 <img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
 </p>
@@ -86,3 +87,5 @@
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)
 * [FMI Groupe](https://www.fmi.fr/)
+
+</div>

@@ -86,7 +86,7 @@ We would like to thank the following groups for their support thus far on the pr
 ## Read in other languages 
 
 | Country | Language |
-| --------|--------|
+| -------|------|
 :de: | [de_DE](/locales/README.de_DE.md)
 :us: | [en_US](/locales/README.en_US.md)
 :es: | [es_ES](/locales/README.es_ES.md)

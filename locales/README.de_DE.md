@@ -86,7 +86,7 @@ Wir möchten den folgenden Gruppen für ihre bisherige Unterstützung des Projek
 ## In anderen Sprachen lesen
 
 | Land | Sprache |
-| --------|--------|
+| -------|------|
 :de: | [de_DE](/locales/README.de_DE.md)
 :us: | [en_US](/locales/README.en_US.md)
 :es: | [es_ES](/locales/README.es_ES.md)

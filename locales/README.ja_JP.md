@@ -87,7 +87,7 @@ Rocky Linuxはコミュニティ主導のプロジェクトであり、今後も
 ## 他の言語で読む
 
 | 国 | 言語 |
-| --------|--------|
+| --------|------|
 :de: | [de_DE](/locales/README.de_DE.md)
 :us: | [en_US](/locales/README.en_US.md)
 :es: | [es_ES](/locales/README.es_ES.md)

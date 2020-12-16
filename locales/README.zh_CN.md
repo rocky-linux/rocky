@@ -86,7 +86,7 @@ Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版
 ## 用其他语言阅读
 
 | 国家 | 语言 |
-| --------|--------|
+| -----|--------|
 :de: | [de_DE](/locales/README.de_DE.md)
 :us: | [en_US](/locales/README.en_US.md)
 :es: | [es_ES](/locales/README.es_ES.md)

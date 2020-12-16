@@ -87,7 +87,7 @@ Rocky Linux의 목표는 이전이 아닌 업스트림 공급 업체에 버전�
 ## 다른 언어로 읽기
 
 | 국가 | 언어 |
-| --------|--------|
+| --------|-------|
 :de: | [de_DE](/locales/README.de_DE.md)
 :us: | [en_US](/locales/README.en_US.md)
 :es: | [es_ES](/locales/README.es_ES.md)

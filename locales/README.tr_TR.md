@@ -87,7 +87,7 @@ Projeye bağış yapmak veya sponsorluk yapmakla ilgileniyorsanız, lütfen hell
 ## Diğer dillerde okuyun
 
 | Ülke | Dil |
-| --------|--------|
+| -----|--------|
 :de: | [de_DE](/locales/README.de_DE.md)
 :us: | [en_US](/locales/README.en_US.md)
 :es: | [es_ES](/locales/README.es_ES.md)

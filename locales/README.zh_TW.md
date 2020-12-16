@@ -85,7 +85,7 @@ Rocky Linux 的目標是成為像以往 CentOS 一樣的下游組建，在上游
 ## 用其他語言閱讀
 
 | 國家 | 語言 |
-| --------|--------|
+| ----|------|
 :de: | [de_DE](/locales/README.de_DE.md)
 :us: | [en_US](/locales/README.en_US.md)
 :es: | [es_ES](/locales/README.es_ES.md)

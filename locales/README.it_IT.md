@@ -88,7 +88,7 @@ Vorremmo ringraziare i seguenti gruppi per il supporto al progetto fin qui mostr
 ## Leggi in altre lingue
 
 | Nazione | linguaggio |
-| --------|--------|
+| --------|------------|
 :de: | [de_DE](/locales/README.de_DE.md)
 :us: | [en_US](/locales/README.en_US.md)
 :es: | [es_ES](/locales/README.es_ES.md)

@@ -85,7 +85,7 @@ Chtěli bychom poděkovat těmto skupinám za jejich dosavadní podporu:
 ## Číst v jiných jazycích
 
 | Rodiče | Jazyk |
-| --------|--------|
+| -------|------|
 :de: | [de_DE](/locales/README.de_DE.md)
 :us: | [en_US](/locales/README.en_US.md)
 :es: | [es_ES](/locales/README.es_ES.md)

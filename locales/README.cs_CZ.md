@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<i>"Když si vzpomenu na začátek CentOSu... Rocky McGaugh byl jeho spoluzakladatel. On s námi již není, neměl šanci zařít úspěchy kterých CentOS dosáhl, a tak na jeho počest a památku, představuji...Rocky Linux"</i><br>
+<i>"Když si vzpomenu na začátek CentOSu... Rocky McGaugh byl jeho spoluzakladatel. On s námi již není, neměl šanci zažít úspěchy kterých CentOS dosáhl a tak na jeho počest a památku, představuji...Rocky Linux"</i><br>
 — Gregory Kurtzer, Zakladatel
 </p>
 
@@ -35,7 +35,7 @@ V současné době není žádný odhad pro datum jeho vydání.
 
 > **O:** Kdo řídí Rocky Linux?
 
-My všichni, Rocky Linux je komunitou řízený projekt a vždy jím bude. Rocky Linux nebude prodán nebo řízen tužby korporacích.
+My všichni, Rocky Linux je komunitou řízený projekt a vždy jím bude. Rocky Linux nebude prodán nebo řízen zájmy korporací.
 
 > **O:** Jak se mohu zapojit?
 
@@ -67,7 +67,7 @@ Jakékoliv jiné dotazy pište na: hello@rockylinux.org
 
 Velmi Vám děkujeme za Váš zájem přispět projektu.
 
-Jste-li vývojářem, architektem, inženýrem, nebo se zajímáte o jiné možnosti jak věnovat svůj čas a zkušenosti, prosím připojte se na [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) a otevřete si kanál který nejlépe odpovídá Vaším představám.
+Jste-li vývojářem, architektem, inženýrem nebo se zajímáte o jiné možnosti jak věnovat svůj čas a zkušenosti, prosím připojte se na [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) a otevřete si kanál který nejlépe odpovídá Vaším představám.
 
 Chcete-li projektu něco věnovat či projekt sponzorovat, prosím pošlete email na hello@rockylinux.org.
 

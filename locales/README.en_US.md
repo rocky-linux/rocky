@@ -83,18 +83,20 @@ We would like to thank the following groups for their support thus far on the pr
 * [SpryServers](https://www.spryservers.net/)
 * [FMI Groupe](https://www.fmi.fr/)
 
-## Read in other languages
+## Read in other languages 
 
-* [de_DE](/locales/README.de_DE.md)
-* [en_US](/locales/README.en_US.md)
-* [es_ES](/locales/README.es_ES.md)
-* [fr_FR](/locales/README.fr_FR.md)
-* [it_IT](/locales/README.it_IT.md)
-* [ja_JP](/locales/README.ja_JP.md)
-* [ko_KR](/locales/README.ko_KR.md)
-* [pt_BR](/locales/README.pt_BR.md) 
-* [ru_RU](/locales/README.ru_RU.md)
-* [sv_SE](/locales/README.sv_SE.md)
-* [tr_TR](/locales/README.tr_TR.md)
-* [zh_CN](/locales/README.zh_CN.md)
-* [zh_TW](/locales/README.zh_TW.md)
+| Country | Language |
+| --------|--------|
+:de: | [de_DE](/locales/README.de_DE.md)
+:us: | [en_US](/locales/README.en_US.md)
+:es: | [es_ES](/locales/README.es_ES.md)
+:fr: | [fr_FR](/locales/README.fr_FR.md)
+:it: | [it_IT](/locales/README.it_IT.md)
+:jp: | [ja_JP](/locales/README.ja_JP.md)
+:kr: | [ko_KR](/locales/README.ko_KR.md)
+:brazil: | [pt_BR](/locales/README.pt_BR.md) 
+:ru: | [ru_RU](/locales/README.ru_RU.md)
+:sweden: | [sv_SE](/locales/README.sv_SE.md)
+:tr: | [tr_TR](/locales/README.tr_TR.md)
+:cn: | [zh_CN](/locales/README.zh_CN.md)
+:cn: | [zh_TW](/locales/README.zh_TW.md)

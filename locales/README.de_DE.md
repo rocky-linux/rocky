@@ -15,7 +15,7 @@ Rocky Linux ist ein Community-basiertes Enterprise-Betriebssystem, das zu 100% (
 
 ## FAQ
 
-> **F:** Was meint ihr mit "nun da CentOS die Ausrichtung geändert hat?"
+> **F:** Was meint ihr mit "nun da CentOS die Ausrichtung geändert hat"?
 
 Das CentOS-Projekt [kündigte vor kurzem](https://blog.centos.org/2020/12/future-is-centos-stream/) eine Strategieänderung für CentOS an. Während CentOS zuvor als *Downstream*-Build seines Upstream-Anbieters fungierte (Patches und Updates werden erst ausgeliefert, nachdem der Upstream-Anbieter diese implementiert hat), soll CentOS nun zu einem *Upstream*-Build werden (Patches und Updates werden getestet, *bevor* diese vom Upstream-Anbieter aufgenommen werden).
 

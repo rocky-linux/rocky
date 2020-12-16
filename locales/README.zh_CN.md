@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-<i>"回想起 CentOS 的初期……我的联合创始人是 Rocky McGaugh。他已经不在我们身边了，他没能看到 CentOS 的成功，所以作为一个对他的致敬，我向你们介绍…… Rocky Linux"</i><br>
-— Gregory Kurtzer, Founder
+<i>"回想起 CentOS 最初的时光……那时 Rocky McGaugh 是我的联合创始人。但他已经不在我们身边了，他没能看到 CentOS 的成功，所以作为一个对他的致敬，我向你们介绍…… Rocky Linux"</i><br>
+— Gregory Kurtzer, 创始人
 </p>
 
 ## 关于本项目
@@ -41,13 +41,13 @@ Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版
 
 ## 联系
 
-| 团队                           | 联系方式                        |
+| 团队                           | 联系方式                       |
 |-------------------------------|--------------------------------|
-| 报道                           | outreach@rockylinux.org        |
-| 开发                           | development@rockylinux.org     |
+| 报道                           | outreach@rockylinux.org       |
+| 开发                           | development@rockylinux.org    |
 | 基础建设                       | infrastructure@rockylinux.org  |
 | 安全                           | security@rockylinux.org        |
-| Web                           | web@rockylinux.org             |
+|Web and Branding	               | web@rockylinux.org, brand@rockylinux.com  |
 
 
 对于其他所有问题: hello@rockylinux.org
@@ -64,7 +64,7 @@ Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版
 
 ## 贡献
 
-感谢您对本项目的贡献的兴趣。
+感谢您有兴趣为本项目做出贡献。
 
 如果你是一名开发者, 设计师, 工程师, 或者想贡献你的时间和专业知识, 请考虑加入 [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) 进入与你的兴趣最相关的频道。
 

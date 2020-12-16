@@ -67,7 +67,7 @@ Jakékoliv jiné dotazy pište na: hello@rockylinux.org
 
 Velmi Vám děkujeme za Váš zájem přispět projektu.
 
-Jste-li vývojářem, architektem, inženýrem nebo se zajímáte o jiné možnosti jak věnovat svůj čas a zkušenosti, prosím připojte se na [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) a otevřete si kanál který nejlépe odpovídá Vaším představám.
+Jste-li vývojářem, architektem, inženýrem nebo se zajímáte o jiné možnosti jak věnovat svůj čas a zkušenosti, prosím připojte se na [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) a otevřete si kanál který nejlépe odpovídá Vašim představám.
 
 Chcete-li projektu něco věnovat či projekt sponzorovat, prosím pošlete email na hello@rockylinux.org.
 

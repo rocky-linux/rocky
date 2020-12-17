@@ -20,7 +20,7 @@ błędu kompatybilny z inicjatywą Linux. którego CentOS zmienił podejście.
 
 > **P:** Co oznacza, że "CentOS zmienił podejście?"
 
-Projekt CentOS [aktualnie
+Projekt CentOS [aktualne
 ogłoszenie](https://blog.centos.org/2020/12/future-is-centos-stream/)
 zmieniające strategie dla CentOS. Podczas gdy poprzednio CentOS istniał jako
 downstream  build z *upstreamu* dostawcy (kiedy wychodziła nowa wersja patcha albo
@@ -61,11 +61,11 @@ niżej.
 
 | Zespół                        | Adres e-mail                              |
 |-------------------------------|-------------------------------------------|
-| Prasa                         | outreach@rockylinux.org                   |
-| Rozwój                        | development@rockylinux.org                |
-| Infrastruktura                | infrastructure@rockylinux.org             |
-| Bezpieczeństwo                | security@rockylinux.org                   |
-| Strona i marka                | web@rockylinux.org, brand@rockylinux.com  |
+| Prasy                         | outreach@rockylinux.org                   |
+| Rozwóju                       | development@rockylinux.org                |
+| Infrastruktury                | infrastructure@rockylinux.org             |
+| Bezpieczeństwa                | security@rockylinux.org                   |
+| Strony i marki                | web@rockylinux.org, brand@rockylinux.com  |
 
 Wszytskie inne pytanie pisz na address: hello@rockylinux.org
 
@@ -81,7 +81,7 @@ Wszytskie inne pytanie pisz na address: hello@rockylinux.org
 
 ## Współtworzenie
 
-Dziękujemy Tobie za zainteresowanie się do wniesienia wkładu do projektu.
+Dziękujemy za twoje chęci do wniesienia wkładu do projektu.
 
 Jeżeli jesteś deweloperem, architektem, inżynierem albo osobą o innych
 specjalnościach proszę rozważ możliwość dołączenia do naszego

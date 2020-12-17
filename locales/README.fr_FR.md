@@ -15,7 +15,7 @@ Rocky Linux est un système d'exploitation d'entreprise communautaire conçu pou
 
 ## Questions fréquemment posées
 
-> **Q:** Que voulez-vous dire, "CentOS a changé de direction?"
+> **Q:** Que voulez-vous dire, "CentOS a changé de direction" ?
 
 Le projet CentOS a [récemment annoncé](https://blog.centos.org/2020/12/future-is-centos-stream/) un changement de stratégie pour CentOS. Alors que CentOS existait auparavant en tant que version *en aval* de son fournisseur en amont (il reçoit des correctifs et des mises à jour après que le fournisseur en amont ne le fasse), il passera à une version *en amont* (test des correctifs et des mises à jour *avant* l'inclusion dans son ancien fournisseur, dorénavant en aval).
 

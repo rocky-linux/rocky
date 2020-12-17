@@ -17,7 +17,7 @@ Rocky Linux est un système d'exploitation d'entreprise communautaire conçu pou
 
 > **Q:** Que voulez-vous dire, "CentOS a changé de direction?"
 
-Le projet CentOS a [récemment annoncé](https://blog.centos.org/2020/12/future-is-centos-stream/) un changement de stratégie pour CentOS. Alors que CentOS existait auparavant en tant que version *en aval* de son fournisseur en amont (il reçoit des correctifs et des mises à jour après que le fournisseur en amont le fasse), il passera à une version *en amont* (test des correctifs et des mises à jour *avant* l'inclusion dans son ancien fournisseur, dorénavant en aval).
+Le projet CentOS a [récemment annoncé](https://blog.centos.org/2020/12/future-is-centos-stream/) un changement de stratégie pour CentOS. Alors que CentOS existait auparavant en tant que version *en aval* de son fournisseur en amont (il reçoit des correctifs et des mises à jour après que le fournisseur en amont ne le fasse), il passera à une version *en amont* (test des correctifs et des mises à jour *avant* l'inclusion dans son ancien fournisseur, dorénavant en aval).
 
 De plus, la durée de la prise en charge de CentOS Linux 8 a été raccourcie, du 31 mai 2029 au 31 décembre 2021.
 
@@ -67,7 +67,7 @@ Pour toutes autres questions: hello@rockylinux.org
 
 Merci pour votre intérêt à contribuer au projet.
 
-Si vous êtes un développeur, un architecte, un ingénieur ou si vous cherchez à apporter votre temps et votre expertise, veuillez envisager de rejoindre [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) puis le canal correspondant à vos intérêts.
+Si vous êtes un développeur, un architecte, un ingénieur ou si vous cherchez à investir votre temps et apporter votre expertise, veuillez envisager de rejoindre [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) puis le canal correspondant à vos intérêts.
 
 Si vous souhaitez faire un don ou parrainer le projet, veuillez envoyer un e-mail à hello@rockylinux.org. 
 

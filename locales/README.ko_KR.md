@@ -1,6 +1,9 @@
 <p align="center">
+<a href="https://rockylinux.org/">
 <img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+</a>
 </p>
+
 <p align="center">
 <i>CentOS 초기 시절을 떠올리며... 제 공동 설립자는 Rocky McGaugh 였습니다. 이제 우리 곁을 비운.. CentOS의 성공을 보지 못한 그에게 경의를 표하는 것으로... Rocky Linux를 소개합니다.</i><br>
 — Gregory Kurtzer, Founder
@@ -54,7 +57,7 @@ Rocky Linux의 목표는 이전이 아닌 업스트림 공급 업체에 버전�
 
 ## 최신 정보
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)
+* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -66,7 +69,7 @@ Rocky Linux의 목표는 이전이 아닌 업스트림 공급 업체에 버전�
 
 프로젝트 기여에 관심을 가져 주셔서 감사합니다.
 
-만약 개발자, 설계자, 엔지니어 이시거나 전문 지식을 제공하고자 하시는 경우 [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) 채널에 참여해보세요. 관심 분야와 가장 관련성이 높은 채널로 참가하여 이야기를 나눌 수 있습니다.
+만약 개발자, 설계자, 엔지니어 이시거나 전문 지식을 제공하고자 하시는 경우 [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) 채널에 참여해보세요. 관심 분야와 가장 관련성이 높은 채널로 참가하여 이야기를 나눌 수 있습니다.
 
 만약 프로젝트에 기부 또는 후원에 관심이 있으신 경우, hello@rockylinux.org 주소로 이메일을 보내주세요.
 

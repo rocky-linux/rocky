@@ -1,5 +1,7 @@
 <p align="center">
+<a href="https://rockylinux.org/">
 <img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+</a>
 </p>
 
 <p align="center">
@@ -52,7 +54,7 @@ Rocky Linux 的目標是成為像以往 CentOS 一樣的下游組建，在上游
 其他問題： hello@rockylinux.org
 
 ## 保持聯繫
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)
+* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -64,7 +66,7 @@ Rocky Linux 的目標是成為像以往 CentOS 一樣的下游組建，在上游
 
 謝謝您想要為此專案盡份心力。
 
-如果您是開發者、設計師、工程師，或者想要貢獻您的精力及專業知識，不妨加入 [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) ，進入你感興趣的頻道。
+如果您是開發者、設計師、工程師，或者想要貢獻您的精力及專業知識，不妨加入 [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) ，進入你感興趣的頻道。
 
 如果您想捐款或贊助本專案，請聯絡 hello@rockylinux.org 。
 

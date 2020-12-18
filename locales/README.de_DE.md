@@ -1,5 +1,7 @@
 <p align="center">
+<a href="https://rockylinux.org/">
 <img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+</a>
 </p>
 
 <p align="center">
@@ -27,7 +29,7 @@ Rocky Linux soll wie zuvor als Downstream-Build fungieren und Releases erstellen
 
 Derzeit gibt es keinen Zeitplan für eine Veröffentlichung.
 
-> **F:**Was ist die Vision von Rocky Linux?
+> **F:** Was ist die Vision von Rocky Linux?
 
 Eine **solide**, **stabile** und **transparente** Alternative für Produktionsumgebungen zu erschaffen, die *von* der Community *für* die Community entwickelt wurde.
 
@@ -37,7 +39,7 @@ Wir alle! Rocky Linux ist ein Community-basiertes Projekt und wird es immer sein
 
 > **F:** Wie kann ich mich engagieren?
 
-Bitte lies den [contributing](#contributing) Abschnitt unten.
+Bitte lies den [Mitarbeit](#mitarbeit) Abschnitt unten.
 
 ## Kontakt
 
@@ -54,7 +56,7 @@ Für alle anderen Fragen: hello@rockylinux.org
 
 ## Bleib am Laufenden
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)
+* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -66,7 +68,7 @@ Für alle anderen Fragen: hello@rockylinux.org
 
 Vielen Dank für dein Interesse an einer Mitarbeit.
 
-Wenn du Entwickler, Architekt oder Engineer bist bzw. in anderer Form deine Zeit und dein Wissen einbringen möchtest, dann schließe dich uns bei [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) an und abonniere die für dich relevanten Kanäle.
+Wenn du Entwickler, Architekt oder Engineer bist bzw. in anderer Form deine Zeit und dein Wissen einbringen möchtest, dann schließe dich uns bei [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) an und abonniere die für dich relevanten Kanäle.
 
 Wenn du daran interessiert bist das Projekt mit einer Spende zu unterstützen oder zu sponsern, dann schreibe eine E-Mail an:  hello@rockylinux.org.
 

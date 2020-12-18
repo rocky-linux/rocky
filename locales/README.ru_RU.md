@@ -1,5 +1,7 @@
 <p align="center">
+<a href="https://rockylinux.org/">
 <img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+</a>
 </p>
 
 <p align="center">
@@ -54,7 +56,7 @@ Rocky Linux стремится существовать как свободна�
 
 ## Будь в курсе
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)
+* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
 * [Форум](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -66,7 +68,7 @@ Rocky Linux стремится существовать как свободна�
 
 Спасибо за ваш интерес к разработке проекта.
 
-Если вы программист, архитектор, инженер или хотите поделиться своим опытом, пожалуйста, присоединяйтесь к нашему [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) и переходите в канал соответствующий вашему интересу.
+Если вы программист, архитектор, инженер или хотите поделиться своим опытом, пожалуйста, присоединяйтесь к нашему [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) и переходите в канал соответствующий вашему интересу.
 
 Если вы заинтересованы в спонсорстве проекта, пожалуйста свяжитесь с нами hello@rockylinux.org.
 

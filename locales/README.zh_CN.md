@@ -1,5 +1,7 @@
 <p align="center">
+<a href="https://rockylinux.org/">
 <img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+</a>
 </p>
 
 <p align="center">
@@ -19,7 +21,7 @@ CentOS 项目组 [最近宣布了](https://blog.centos.org/2020/12/future-is-cen
 
 此外，官方对 CentOS Linux 8 的支持也从 2029 年 5 月 31 日缩短到 2021 年 12 月 31 日。
 
-> **Q:** 那么 Rocky Linux 的优势在哪呢？
+> **Q:** Rocky Linux 为何而生？
 
 Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版被添加到上游之后再构建版本，而不是之前。
 
@@ -54,7 +56,7 @@ Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版
 
 ## 随时了解情况
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)
+* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
 * [论坛](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -66,7 +68,7 @@ Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版
 
 感谢您有兴趣为本项目做出贡献。
 
-如果你是一名开发者, 设计师, 工程师, 或者想贡献你的时间和专业知识, 请考虑加入 [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) 进入与你的兴趣最相关的频道。
+如果你是一名开发者, 设计师, 工程师, 或者想贡献你的时间和专业知识, 请考虑加入 [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) 进入与你的兴趣最相关的频道。
 
 如果你有兴趣捐赠或赞助这个项目，请发电子邮件到 hello@rockylinux.org。
 

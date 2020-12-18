@@ -1,10 +1,11 @@
 <p align="center">
+<a href="https://rockylinux.org/">
 <img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+</a>
 </p>
 
 <p align="center">
-<i>
-"CentOSの初期の頃を振り返ってみると... 私の共同創設者はロッキー・マクガウ(Rocky McGaugh)でした。彼はもう私たちとは一緒にいない、そんな彼への感謝を込めて、彼はCentOSの成功を決して見ることができないが、私は紹介します...Rock Linuxを。"<i><br>
+<i>"CentOSの初期の頃を振り返ってみると... 私の共同創設者はロッキー・マクガウ(Rocky McGaugh)でした。彼はもう私たちとは一緒にいない、そんな彼への感謝を込めて、彼はCentOSの成功を決して見ることができないが、私は紹介します...Rock Linuxを。"<i><br>
 創設者、グレゴリー・クルツァー(Gregory Kurtzer)
 </p>
 
@@ -54,7 +55,7 @@ Rocky Linuxはコミュニティ主導のプロジェクトであり、今後も
 
 ## 最新情報を入手
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ)
+* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -66,7 +67,7 @@ Rocky Linuxはコミュニティ主導のプロジェクトであり、今後も
 
 プロジェクトへの貢献に興味を持っていただきありがとうございます。
 
-開発者、アーキテクト、エンジニア、またはその他の方法で時間と専門知識を活かしてくれる方は、[Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k5z04bsh-1uqpaD1NsYVP73vzc3uKdQ) に参加し最もあなたの興味に関連が近いチャンネルに参加してください。
+開発者、アーキテクト、エンジニア、またはその他の方法で時間と専門知識を活かしてくれる方は、[Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) に参加し最もあなたの興味に関連が近いチャンネルに参加してください。
 
 プロジェクトへの寄付してくださる方やスポンサーに興味のある方は、 hello@rockylinux.org へメールしてください。
 

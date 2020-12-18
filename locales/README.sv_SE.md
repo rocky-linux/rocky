@@ -53,7 +53,7 @@ För alla andra frågor: hello@rockylinux.org
 
 ## Håll dig informerad
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
+* [Slack](https://slack.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -65,7 +65,7 @@ För alla andra frågor: hello@rockylinux.org
 
 Tack för att du visat intresse till att bidra till projektet.
 
-Om du är en utvecklare, arkitekt, ingenjör, eller något annat som vill bidra med din tid och expertis, Får du gärna gå med i våran [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) och hoppa in i dom kanaler som är mest relevanta för dina intressen.
+Om du är en utvecklare, arkitekt, ingenjör, eller något annat som vill bidra med din tid och expertis, Får du gärna gå med i våran [Slack](https://slack.rockylinux.org) och hoppa in i dom kanaler som är mest relevanta för dina intressen.
 
 Om du är intresserad av att donera eller sponsra projektet, vänligen skicka ett mail till hello@rockylinux.org.
 

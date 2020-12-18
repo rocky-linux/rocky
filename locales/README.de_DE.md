@@ -56,7 +56,7 @@ Für alle anderen Fragen: hello@rockylinux.org
 
 ## Bleib auf dem Laufenden
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
+* [Slack](https://slack.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -68,7 +68,7 @@ Für alle anderen Fragen: hello@rockylinux.org
 
 Vielen Dank für dein Interesse, an Rocky Linux mitzuarbeiten.
 
-Wenn du als Softwareentwickler, -architekt, Techniker oder in anderer Form deine Zeit und dein Wissen einbringen möchtest, dann schließe dich uns bei [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) an und abonniere die für dich relevanten Kanäle.
+Wenn du als Softwareentwickler, -architekt, Techniker oder in anderer Form deine Zeit und dein Wissen einbringen möchtest, dann schließe dich uns bei [Slack](https://slack.rockylinux.org) an und abonniere die für dich relevanten Kanäle.
 
 Wenn du daran interessiert bist, das Projekt mit einer Spende zu unterstützen oder zu sponsern, dann schreibe eine E-Mail an:  hello@rockylinux.org.
 

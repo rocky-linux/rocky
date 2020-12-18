@@ -21,7 +21,7 @@ CentOS 專案在[近日宣布](https://blog.centos.org/2020/12/future-is-centos-
 
 此外，CentOS Linux 8 的官方支援也從2029年5月31日被縮短至2021年12月31日。
 
-> **Q:** 那 Rocky Linux 做什麼？
+> **Q:** Rocky Linux 為何而生？
 
 Rocky Linux 的目標是成為像以往 CentOS 一樣的下游組建，在上游供應商更新版本後才釋出組建。
 

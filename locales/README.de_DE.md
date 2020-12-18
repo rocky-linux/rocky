@@ -29,7 +29,7 @@ Rocky Linux soll wie zuvor als Downstream-Build fungieren und Releases erstellen
 
 Derzeit gibt es keinen Zeitplan für eine Veröffentlichung.
 
-> **F:**Was ist die Vision von Rocky Linux?
+> **F:** Was ist die Vision von Rocky Linux?
 
 Eine **solide**, **stabile** und **transparente** Alternative für Produktionsumgebungen zu erschaffen, die *von* der Community *für* die Community entwickelt wurde.
 
@@ -39,7 +39,7 @@ Wir alle! Rocky Linux ist ein Community-basiertes Projekt und wird es immer sein
 
 > **F:** Wie kann ich mich engagieren?
 
-Bitte lies den [contributing](#contributing) Abschnitt unten.
+Bitte lies den [Mitarbeit](#mitarbeit) Abschnitt unten.
 
 ## Kontakt
 

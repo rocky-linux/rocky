@@ -5,37 +5,37 @@
 </p>
 
 <p align="center">
-<i>"回想起CentOS初期的时光...我的联合创始人是 Rocky McGaugh。他已经不在我们身边了，他从来没能看到过 CentOS 的成功，所以对他来说作为一个致敬，我向你们介绍…Rocky Linux"</i><br>
-— Gregory Kurtzer, Founder
+<i>"回想起 CentOS 最初的时光……那时 Rocky McGaugh 是我的联合创始人。但他已经不在我们身边了，他没能看到 CentOS 的成功，所以作为一个对他的致敬，我向你们介绍…… Rocky Linux"</i><br>
+— Gregory Kurtzer, 创始人
 </p>
 
-## 关于
+## 关于本项目
 
-由于CentOS已经改变了发展方向, Rocky Linux是一个社区企业操作系统，旨在与企业Linux实现100％错误兼容。
+由于 CentOS 已经改变了发展方向, Rocky Linux是一个社区企业操作系统，旨在实现与 Enterprise Linux 100％ 兼容。
 
-## 常见问题解答
+## 常见问题
 
-> **Q:** “CentOS 已经改变了方向” 是什么意思？
+> **Q:** “ CentOS 已经改变了方向” 是什么意思？
 
-CentOS 项目 [最近宣布](https://blog.centos.org/2020/12/future-is-centos-stream/) CentOS 项目的一个策略转变。 CentOS 以前是作为上游供应商的“下游”构建而存在的（它在“上游”供应商之后接收补丁和更新），而它未来将转移到“上游”构建（包含为“上游”供应商测试补丁和更新）
+CentOS 项目组 [最近宣布了](https://blog.centos.org/2020/12/future-is-centos-stream/) CentOS 项目的一个策略转变。 CentOS 以前是作为“上游”的“下游”构建版本而存在的（它在“上游”提供补丁和更新之后才接收补丁和更新），而现在它将转移到“上游”构建（即在“上游”之前测试补丁和更新）。
 
 此外，官方对 CentOS Linux 8 的支持也从 2029 年 5 月 31 日缩短到 2021 年 12 月 31 日。
 
-> **Q:** 那么Rocky Linux从何入手？
+> **Q:** 那么 Rocky Linux 的优势在哪呢？
 
-Rocky Linux的目标是像CentOS以前那样充当下游构建，在向上游供应商添加版本之后再构建版本（而不是之前）。
+Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版被添加到上游之后再构建版本，而不是之前。
 
 > **Q:** 它会在什么时候发布？
 
-目前还没有预计发布时间。
+目前尚未计划发布日期。
+ 
+> **Q:** RockyLinux 的愿景是什么？
 
-> **Q:** RockyLinux的愿景是什么？
-
-一个 **坚固**, **稳定**, 并且 **透明** 生产环境替代品, *由*社区*为*社区开发。
+一个 **可靠**, **稳定**, 并且 **透明** 生产环境替代方案, *由* 社区 *为* 社区开发。
 
 > **Q:** 谁来驱动 Rocky Linux？
 
-我们所有人。Rocky Linux 是一个社区驱动的项目，而且永远都是。Rocky Linux不会被出售，也不会受到商业利益的驱动。
+所有人。Rocky Linux 是一个由社区驱动的项目,也将永远由社区驱动。Rocky Linux 将不会被出售，也不会受商业利益驱动。
 
 > **Q:** 我怎样才能参与进来？
 
@@ -43,16 +43,16 @@ Rocky Linux的目标是像CentOS以前那样充当下游构建，在向上游供
 
 ## 联系
 
-| 团队                           | 联系方式                        |
+| 团队                           | 联系方式                       |
 |-------------------------------|--------------------------------|
-| 报道                           | outreach@rockylinux.org        |
-| 开发                           | development@rockylinux.org     |
+| 报道                           | outreach@rockylinux.org       |
+| 开发                           | development@rockylinux.org    |
 | 基础建设                       | infrastructure@rockylinux.org  |
 | 安全                           | security@rockylinux.org        |
-| Web                           | web@rockylinux.org             |
+|Web and Branding	               | web@rockylinux.org, brand@rockylinux.com  |
 
 
-对所有其它的问题: hello@rockylinux.org
+对于其他所有问题: hello@rockylinux.org
 
 ## 随时了解情况
 
@@ -66,7 +66,7 @@ Rocky Linux的目标是像CentOS以前那样充当下游构建，在向上游供
 
 ## 贡献
 
-感谢您对本项目的贡献的兴趣。
+感谢您有兴趣为本项目做出贡献。
 
 如果你是一名开发者, 设计师, 工程师, 或者想贡献你的时间和专业知识, 请考虑加入 [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) 进入与你的兴趣最相关的频道。
 
@@ -82,3 +82,4 @@ Rocky Linux的目标是像CentOS以前那样充当下游构建，在向上游供
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)
 * [FMI Groupe](https://www.fmi.fr/)
+

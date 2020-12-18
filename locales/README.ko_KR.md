@@ -57,7 +57,7 @@ Rocky Linux의 목표는 이전이 아닌 업스트림 공급 업체에 버전�
 
 ## 최신 정보
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
+* [Slack](https://slack.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -69,7 +69,7 @@ Rocky Linux의 목표는 이전이 아닌 업스트림 공급 업체에 버전�
 
 프로젝트 기여에 관심을 가져 주셔서 감사합니다.
 
-만약 개발자, 설계자, 엔지니어 이시거나 전문 지식을 제공하고자 하시는 경우 [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) 채널에 참여해보세요. 관심 분야와 가장 관련성이 높은 채널로 참가하여 이야기를 나눌 수 있습니다.
+만약 개발자, 설계자, 엔지니어 이시거나 전문 지식을 제공하고자 하시는 경우 [Slack](https://slack.rockylinux.org) 채널에 참여해보세요. 관심 분야와 가장 관련성이 높은 채널로 참가하여 이야기를 나눌 수 있습니다.
 
 만약 프로젝트에 기부 또는 후원에 관심이 있으신 경우, hello@rockylinux.org 주소로 이메일을 보내주세요.
 

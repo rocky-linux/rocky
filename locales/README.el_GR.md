@@ -56,7 +56,7 @@
 
 ## Μείνετε ενημερωμένοι
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
+* [Slack](https://slack.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -68,4 +68,4 @@
 
 Σας ευχαριστούμε για το ενδιαφέρον σας να συνεισφέρετε σε αυτό εγχείρημα.
 
-Εάν είστε προγραμματιστής ή θέλετε να συνεισφέρετε με τον χρόνο και την εμπειρία σας, σκεφτείτε το ενδεχόμενο να συμμετάσχετε στο [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) και να μεταβείτε στο πιο σχετικό κανάλι για τα ενδιαφέροντά σας.
+Εάν είστε προγραμματιστής ή θέλετε να συνεισφέρετε με τον χρόνο και την εμπειρία σας, σκεφτείτε το ενδεχόμενο να συμμετάσχετε στο [Slack](https://slack.rockylinux.org) και να μεταβείτε στο πιο σχετικό κανάλι για τα ενδιαφέροντά σας.

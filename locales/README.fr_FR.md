@@ -63,7 +63,7 @@ Pour toutes autres questions: hello@rockylinux.org
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
-## Contribuant
+## Contributeur
 
 Merci pour votre intérêt à contribuer au projet.
 

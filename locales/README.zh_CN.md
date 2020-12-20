@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-<i>"回想起 CentOS 最初的时光……那时 Rocky McGaugh 是我的联合创始人。他已经不在了，他没能看到 CentOS 的成功，所以为了向他致敬，我向你们介绍…… Rocky Linux"</i><br>
+<i>"回想起 CentOS 最初的时光……Rocky McGaugh 是我的联合创始人。他已经不在了，他没能看到 CentOS 的成功，所以为了向他致敬，我向你们介绍…… Rocky Linux"</i><br>
 — Gregory Kurtzer, 创始人
 </p>
 
 ## 关于本项目
 
-由于 CentOS 已经改变了发展方向，Rocky Linux是一个社区企业操作系统，旨在实现与 Enterprise Linux 的包括错误在内的完全兼容。
+由于 CentOS 已经改变了发展方向，Rocky Linux是一个社区企业操作系统，旨在实现与 RHEL (Red Hat Enterprise Linux) 的包括错误在内的完全兼容。
 
 ## 常见问题
 

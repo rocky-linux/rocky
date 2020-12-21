@@ -57,7 +57,7 @@ Untuk pertanyaan lainnya: hello@rockylinux.org
 
 ## Tetaplah Terupdate
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
+* [Slack](https://slack.rockylinux.org/)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -69,7 +69,7 @@ Untuk pertanyaan lainnya: hello@rockylinux.org
 
 Terima kasih karena sudah tertarik untuk berkontribusi pada proyek ini.
 
-Jika anda adalah seorang developer, architect, engineer atau yang lainnya dan anda ingin berkontribusi waktu dan kemampuan, silahkan bergabung di [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) dan masuk kedalam kanal yang relevan.
+Jika anda adalah seorang developer, architect, engineer atau yang lainnya dan anda ingin berkontribusi waktu dan kemampuan, silahkan bergabung di [Slack](https://slack.rockylinux.org/) dan masuk kedalam kanal yang relevan.
 
 Jika anda tertarik untuk berdonasi atau mensponsori proyek ini, silahkan email ke hello@rockylinux.org.
 

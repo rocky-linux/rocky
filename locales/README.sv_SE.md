@@ -11,17 +11,17 @@
 
 ## Om
 
-Rocky Linux är ett Community Enterprise Operativ system designat att vara 100% bugg-för-bugg-kompatibelt med Enterprise Linux, nu när CentOS har ändrat inriktning.
+Rocky Linux är ett Community Enterprise operativsystem, designat att vara 100% bugg-för-bugg-kompatibelt med Enterprise Linux, nu när CentOS har ändrat inriktning.
 
 ## Vanliga frågor och svar
 > **F:** Vad menar ni med att, "CentOS har ändrat inriktning"
 
-CentOS-projektet tillkännagav nyligen ett skift i inriktning för CentOS. Medan CentOS tidigare fanns som ett nedströmsbygge av sitt uppströmsbygge (det som tar emot korrigeringar och uppdateringar efter att uppströmsleverantören gör det) kommer att flyttas till endast uppströmsbygge  (testade korrigeringar och uppdateringar innan de inkluderas i uppströmsbygget).
-Additionally, support for CentOS Linux 8 has been cut short, from May 31, 2029 to December 31, 2021.
+CentOS-projektet tillkännagav nyligen ett skift i inriktning för CentOS. Medan CentOS tidigare fanns som ett nedströmsbygge som tog emot korrigeringar och uppdateringar efter att uppströmsbygget implementerat dem, har CentOS-projektet skiftat till ett uppströmsbygge. Detta innebär att CentOS-projektet kommer att implementera korrigeringar och uppdateringar tidigare än sitt uppströmsbygge.  
+CentOS-projektet har också meddelat att support för CentOS Linux 8 har flyttats tillbaka från 31 Maj, 2029 till 31 December, 2021.
 
 > **F:** Så var kommer Rocky Linux in?
 
-Rocky Linux syftar till att fungera som ett nedströmsbygge som CentOS har gjort tidigare, byggnadsreleaser efter att de har lagts till uppström, inte tidigare.
+Rocky Linux syftar till att fungera som ett nedströmsbygge som CentOS har gjort tidigare, alltså implementera förändringar efter att de har lagts till uppström, inte tidigare.
 
 > **F:** När kommer det att släppas?
 
@@ -29,13 +29,13 @@ Det finns för närvarande ingen ETA för när releasen släpps.
 
 > **F:** Vad är visionen för Rocky Linux?
 
-Ett solidt, stabilt, och transparent alternativ för produktionsmiljöer, utvecklat av gemenskapen för gemenskapen.
+Ett solidt, stabilt, och transparent alternativ för produktionsmiljöer, utvecklat av gemenskapen, för gemenskapen.
 
 > **Q:** Vem driver Rocky Linux?
 
-Det gör vi alla, Rocky Linux är ett gemenskaps-drivet projekt och kommer alltid vara. Rocky Linux kommer inte att säljas eller drivas av företags intresse.
+Det gör vi alla, Rocky Linux är ett gemenskapsdrivet projekt och kommer alltid att vara det. Rocky Linux kommer inte att säljas eller drivas av företagsintresse.
 
-> **Q:** Hur kan jag engagera mig?
+> **Q:** Hur kan jag hjälpa till?
 
 Se sektionen om hur man [bidrar](#Bidra) nedan.
 
@@ -51,7 +51,7 @@ Se sektionen om hur man [bidrar](#Bidra) nedan.
 
 För alla andra frågor: hello@rockylinux.org
 
-## Håll dig informerad
+## Håll dig uppdaterad
 
 * [Slack](https://slack.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
@@ -65,7 +65,7 @@ För alla andra frågor: hello@rockylinux.org
 
 Tack för att du visat intresse till att bidra till projektet.
 
-Om du är en utvecklare, arkitekt, ingenjör, eller något annat som vill bidra med din tid och expertis, Får du gärna gå med i våran [Slack](https://slack.rockylinux.org) och hoppa in i dom kanaler som är mest relevanta för dina intressen.
+Om du är en utvecklare, arkitekt, ingenjör, eller något annat som vill bidra med din tid och expertis får du gärna gå med i våran [Slack](https://slack.rockylinux.org) och hoppa in i de kanaler som är mest relevanta för dina intressen.
 
 Om du är intresserad av att donera eller sponsra projektet, vänligen skicka ett mail till hello@rockylinux.org.
 

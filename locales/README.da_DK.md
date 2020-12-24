@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-<i>"Når jeg tænker tilbage på de tidlige CentOS-dage... Min medstifter var Rocky McGaugh. Han er ikke længere med os, så som en hilsen til ham, som ikke kom til at se den success som CentOS blev, vil jeg introducere..Rocky Linux"</i><br>
+<i>"Når jeg tænker tilbage på de tidlige CentOS-dage... Min medstifter var Rocky McGaugh. Han er ikke længere med os, så, som en hilsen til ham, som ikke kom til at se den succes som CentOS blev, vil jeg introducere.. Rocky Linux"</i><br>
 — Gregory Kurtzer, grundlægger
 </p>
 
 ## Om
-Rocky Linux er et community-enterprise Operativsystem designet til at være 100% fejl-til-fejl kompatibelt med Enterprise Linux, nu da CentOS har skiftet retning.
+Rocky Linux er et fællesskabs-enterprise operativsystem designet til at være 100% fejl-til-fejl kompatibelt med Enterprise Linux, nu da CentOS har skiftet retning.
 
 ## Ofte stillede spørgsmål
 
@@ -22,40 +22,38 @@ Ydeligt, supporteres CentOS Linux 8 i kortere tidperiode, fra 31. Maj 2029 til n
 
 > **Q:** Så hvordan kommer Rocky Linux ind i billedet?
 
-Rocky Linux vil forsøge at være et downstream build sådan som CentOS tidligere var, bygge  
+Rocky Linux vil forsøge at være et downstream build sådan som CentOS tidligere var, bygge releases efter de er blevet tilføjet hos upstream forhandleren, ikke før.  
 
-Rocky Linux aims to function as a downstream build as CentOS had done previously, building releases after they have been added to the upstream vendor, not before.
+> **Q:** Hvornår bliver det udgivet?
 
-> **Q:** When will it be released?
+Der er ikke på nuværende tidspunkt et tidspunkt for udgivelsen.
 
-There is not currently an ETA for release.
+> **Q:** Hvad er visionen for Rocky Linux?
 
-> **Q:** What is the vision for Rocky Linux?
+A At være et **solidt**, **stabilt** og **transparent** alternative for produktions miljøer, udviklet *af* fællesskabet *for* fællesskabet.
 
-A **solid**, **stable**, and **transparent** alternative for production environments, developed *by* the community *for* the community.
+> **Q:** Hvem driver Rocky Linux?
 
-> **Q:** Who drives Rocky Linux?
+Det gøre vi alle, Rocky Linux er et fællesskabsdrevet projekt og vil altid være det. Rocky Linux vil ikke blive solgt eller drevet af kommercielle interesser.
 
-We all do, Rocky Linux is a community-driven project and always will be. Rocky Linux will not be sold or driven by corporate interest.
+> **Q:** Hvordan kan jeg bidrage?
 
-> **Q:** How can I get involved?
+Se venligst [bidrage](#Bidrage) sektionen herunder. 
 
-Please view the [contributing](#contributing) section below.
-
-## Contact
+## Kontakt
 
 | Team                          | Contact                                   |
 |-------------------------------|-------------------------------------------|
-| Press                         | outreach@rockylinux.org                   |
-| Development                   | development@rockylinux.org                |
-| Infrastructure                | infrastructure@rockylinux.org             |
-| Security                      | security@rockylinux.org                   |
-| Web and Branding              | web@rockylinux.org, brand@rockylinux.com  |
+| Presse                        | outreach@rockylinux.org                   |
+| Udvikling                     | development@rockylinux.org                |
+| Infrastruktur                 | infrastructure@rockylinux.org             |
+| Sikkerhed                     | security@rockylinux.org                   |
+| Web og Branding               | web@rockylinux.org, brand@rockylinux.com  |
 
 
-For all other questions: hello@rockylinux.org
+Forandre spørgsmål: hello@rockylinux.org
 
-## Stay Informed
+## Flere informationer
 
 * [Slack](https://slack.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
@@ -65,19 +63,19 @@ For all other questions: hello@rockylinux.org
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
-## Contributing
+## Bidrage
 
-Thank you for your interest in contributing to the project.
+Tak for din interesse for at bidrage til projektet.
 
-If you are a developer, architect, engineer, or otherwise looking to contribute your time and expertise, please consider joining the [Slack](https://slack.rockylinux.org) and jumping into the most relevant channel to your interests.
+Hvis du er udvikler, arkitekt, ingenør eller på anden måde vil bidrage med din tid og ekspertise, kik venligst på [Slack](https://slack.rockylinux.org) og hop på de kannaler der er relavante for dine interesser.
 
-If you are interested in donating or sponsoring the project, please email hello@rockylinux.org.
+Hvis du er interesseret i at donere eller sponsorer projektet, skriv venligst til hello@rockylinux.org.
 
-**NOTE**: We **do not** currently have any official crowdsourcing established.
+**NOTE**: Vi **har ikke** på nuværende tidspunkt nogen officielle crowdsourcing etableret.
 
-## Special Thanks
+## Speciel tak
 
-We would like to thank the following groups for their support thus far on the project:
+Vi vil gerne takke følgende grupper for deres større til projektet:
 * [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)

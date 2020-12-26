@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<i>"CentOSの最初期、私の共同でCentOSを創設したのははロッキー・マクガウ(Rocky McGaugh)でした。しかし、彼はもう私たちとは一緒にいません。CentOSの成功を決して見ることができない彼への感謝を込めて私はRock Linuxを紹介します。"<i><br>
+<i>"CentOSの最初期、私の共同でCentOSを創設したのはロッキー・マクガウ(Rocky McGaugh)でした。しかし、彼はもう私たちとは一緒にいません。CentOSの成功を決して見ることができない彼への感謝を込めて私はRock Linuxを紹介します。"<i><br>
 — 創設者、グレゴリー・クルツァー(Gregory Kurtzer)
 </p>
 

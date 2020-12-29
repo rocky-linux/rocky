@@ -18,13 +18,13 @@ Rocky Linux es un Sistema Operativo empresarial comunitario diseñado para ser 1
 
 > **P:** ¿A qué te refieres con, "Centos ha cambiado de dirección"?
 
-El proyecto CentOS [recientemente anunció](https://blog.centos.org/2020/12/future-is-centos-stream/) un cambio en su estrategia para CentOS. Mientras previamente CentOS existía como un build *downstream* de su proveedor upstream (recibía parches y actualizaciones luego del proveedor), ahora cambiará a ser un build *upstream* (testeando parches y actualziaciones *antes* de su inclusión en el proveedor upstream).
+El proyecto CentOS [recientemente anunció](https://blog.centos.org/2020/12/future-is-centos-stream/) un cambio en su estrategia para CentOS. Mientras previamente CentOS existía como un build *downstream* de su proveedor upstream (recibía parches y actualizaciones luego del proveedor), ahora pasará a ser un build *upstream* (testeando parches y actualziaciones *antes* de su inclusión en el proveedor upstream).
 
-En adición a eso, el soporte para CentOS Linux 8 se acortó, del 31 de Mayo de 2029 al 31 de Diciembre de 2021.
+Además, el soporte para CentOS Linux 8 se acortó del 31 de Mayo de 2029, al 31 de Diciembre de 2021.
 
 > **P:** ¿Y dónde entra Rocky Linux?
 
-Rocky Linux apunta a funcionar como un build downstream como lo hacía previamente CentOS, compilando releases después de que se agreguen al proveedor upstream, no antes.
+Rocky Linux aspira a funcionar como un build downstream como lo hacía previamente CentOS, compilando releases después de que se agreguen al proveedor upstream, no antes.
 
 > **P:** ¿Cuándo será liberado?
 
@@ -32,11 +32,11 @@ Actualmente no hay una fecha estimada para su liberación.
 
 > **P:** ¿Cuál es la visión para Rocky Linux?
 
-Una alternativa **sólida**, **estable** y **transparente** para ambientes de producción, desarrollada *por* la comunidad *para* la comunidad.
+Una alternativa **sólida**, **estable** y **transparente** para entornos de producción, desarrollada *por* la comunidad *para* la comunidad.
 
-> **P:** ¿Quién conduce Rocky Linux?
+> **P:** ¿Quién dirige Rocky Linux?
 
-Todos lo hacemos, Rocky Linux es un proyecto impulsado por la comunidad y siempre lo será. Rocky Linux no se venderá ni será manejado por intereses corporativos.
+Todos lo hacemos, Rocky Linux es un proyecto impulsado por la comunidad y siempre lo será. Rocky Linux no se venderá ni será liderado por intereses corporativos.
 
 > **P:** ¿Cómo me puedo involucrar?
 
@@ -53,7 +53,7 @@ Por favor mira la sección [contribuye](#contribuye) más abajo.
 | Web y Marca      | web@rockylinux.org, brand@rockylinux.com |
 
 
-Por cualquier otra pregunta: hello@rockylinux.org
+Para cualquier otra pregunta: hello@rockylinux.org
 
 ## Mantente Informado
 
@@ -77,7 +77,7 @@ Si estás interesado en donar o patrocinar el proyecto, por favor envía un emai
 
 ## Agradecimientos Especiales
 
-Nos gustaría agradecerle a los siguientes grupos por su apoyo al proyecto hasta este momento:
+Nos gustaría agradecer a los siguientes grupos por su apoyo al proyecto hasta este momento:
 * [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)

@@ -16,7 +16,7 @@ Rocky Linux är ett Community Enterprise operativsystem, designat att vara 100% 
 ## Vanliga frågor och svar
 > **F:** Vad menar ni med att, "CentOS har ändrat inriktning"
 
-CentOS-projektet tillkännagav nyligen ett skift i inriktning för CentOS. Medan CentOS tidigare fanns som ett nedströmsbygge som tog emot korrigeringar och uppdateringar efter att uppströmsbygget implementerat dem, har CentOS-projektet skiftat till ett uppströmsbygge. Detta innebär att CentOS-projektet kommer att implementera korrigeringar och uppdateringar tidigare än sitt uppströmsbygge.  
+CentOS-projektet tillkännagav nyligen ett skifte i inriktning för CentOS. Medan CentOS tidigare fanns som ett nedströmsbygge som tog emot korrigeringar och uppdateringar efter att uppströmsbygget implementerat dem, har CentOS-projektet skiftat till ett uppströmsbygge. Detta innebär att CentOS-projektet kommer att implementera korrigeringar och uppdateringar tidigare än sitt uppströmsbygge.  
 CentOS-projektet har också meddelat att support för CentOS Linux 8 har flyttats tillbaka från 31 Maj, 2029 till 31 December, 2021.
 
 > **F:** Så var kommer Rocky Linux in?

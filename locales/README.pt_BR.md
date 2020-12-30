@@ -17,7 +17,7 @@ Rocky Linux é um Sistema Operacional enterprise da comunidade, desenhado para s
 
 > **Q:** O que você quer dizer com "CentOS mudou de direção?"
 
-O projeto CentoOS [anunciou recentemente](https://blog.centos.org/2020/12/future-is-centos-stream/) uma mudança na estratégia do CentOS. Enquanto anteriormente o CentoOS existia como um build *downstream* do seu fornecedor upstream (recebia patches e updates após seu fornecedor upstream faze-los), ele agora passará a ser um build *upstream* (testando patches e updates *antes* da inclusão no seu fornecedor upstream).
+O projeto CentoOS [anunciou recentemente](https://blog.centos.org/2020/12/future-is-centos-stream/) uma mudança na estratégia. Enquanto anteriormente existia apenas como um build *downstream* do seu fornecedor upstream (recebia patches e updates após seu fornecedor upstream faze-los), ele agora passará a ser um build *upstream* (testando patches e updates *antes* da inclusão no seu fornecedor upstream).
 
 Adicionalmente, o suporte para o CentOS Linux 8 foi encurtado, de 31 de Maio de 2029 para 31 de Dezembro de 2021.
 

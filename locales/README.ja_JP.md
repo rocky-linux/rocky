@@ -5,25 +5,25 @@
 </p>
 
 <p align="center">
-<i>"CentOSの初期の頃を振り返ってみると... 私の共同創設者はロッキー・マクガウ(Rocky McGaugh)でした。彼はもう私たちとは一緒にいない、そんな彼への感謝を込めて、彼はCentOSの成功を決して見ることができないが、私は紹介します...Rock Linuxを。"<i><br>
-創設者、グレゴリー・クルツァー(Gregory Kurtzer)
+<i>"CentOSの最初期、私の共同でCentOSを創設したのはロッキー・マクガウ(Rocky McGaugh)でした。しかし、彼はもう私たちとは一緒にいません。CentOSの成功を決して見ることができない彼への感謝を込めて私はRocky Linuxを紹介します。"</i><br>
+— 創設者、グレゴリー・クルツァー(Gregory Kurtzer)
 </p>
 
 ## Rocky Linuxについて
 
-Rocky Linuxは、CentOSが方針を変えた今、Red Hat Enterprise Linuxとバグまで100%の互換がある商用OSです。
+Rocky Linuxは、方針を転換したCentOSの代わりとして、Red Hat Enterprise Linuxと100%の互換性があるコミュニティー製商用OSです。
 
 ## よく寄せられる質問
 
-> **質問:** 「CentOSが方針を変えた」とはどういう意味ですか？
+> **質問:** 「CentOSが方針を転換した」とはどういう意味ですか？
 
-CentOS プロジェクトは戦略の転換を[最近発表](https://blog.centos.org/2020/12/future-is-centos-stream/)しました。CentOS は*ダウンストリーム*ビルド(アップストリームベンダーがパッチを適応したあとにCentOSもパッチを適用します)でしたが、*アップストリーム*ビルド(アップストリームベンダーが適用する前のパッチを適用とテストをします)に移行します。 
+CentOS プロジェクトは方針の転換をし、CentOS を*ダウンストリーム*ビルド(RHELの更新後にアップデートを行う)から*アップストリーム*ビルド(RHELの更新前にアップデートを行う)に移行すると[最近発表](https://blog.centos.org/2020/12/future-is-centos-stream/)しました。
 
-さらに、 CentOS Linux 8のサポートは2029年5月31日から2021年12月31日まで短縮されました。
+また、 CentOS Linux 8のサポートを2029年5月31日から2021年12月31日に短縮しました。
 
 > **質問:** Rocky Linux はどのような役割を持つのですか？
 
-Rocky Linux はCentOSが以前そうであったようなダウンストリームの役割を目指しており、アップストリームのベンダがリリースする前ではなく後にビルドをします。
+Rocky Linux は以前のCentOSのようにダウンストリームの役割を目指しており、アップストリームのベンダがリリースする前ではなく後にビルドをします。
 
 > **質問:** いつリリース予定ですか？
 
@@ -31,10 +31,11 @@ Rocky Linux はCentOSが以前そうであったようなダウンストリー�
 
 > **質問:** Rocky Linuxのビジョンはなんですか？
 
-A コミュニティがコミュニティのために開発した、**堅実**で、 **安定**した、 そして **透明性の高い** 本番環境の選択肢。
+コミュニティがコミュニティのために開発した、**堅実**で、 **安定**した、 そして **透明性の高い** 本番環境としての選択肢。
 
 > **質問:** 誰がRocky Linuxを運営するんですか？
 
+運用するのはコミュニティです。
 Rocky Linuxはコミュニティ主導のプロジェクトであり、今後もそうであり続けるでしょう。Rocky Linuxは企業の利益のために販売/運営されることはないでしょう。
 
 > **質問:** どうすれば参加できますか？
@@ -55,7 +56,7 @@ Rocky Linuxはコミュニティ主導のプロジェクトであり、今後も
 
 ## 最新情報を入手
 
-* [Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw)
+* [Slack](https://slack.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -67,7 +68,7 @@ Rocky Linuxはコミュニティ主導のプロジェクトであり、今後も
 
 プロジェクトへの貢献に興味を持っていただきありがとうございます。
 
-開発者、アーキテクト、エンジニア、またはその他の方法で時間と専門知識を活かしてくれる方は、[Slack](https://join.slack.com/t/hpcng/shared_invite/zt-k29vv4ab-yj1ksbHK_ZkXYi6HGtTYfw) に参加し最もあなたの興味に関連が近いチャンネルに参加してください。
+開発者、アーキテクト、エンジニア、またはその他の方法で時間と専門知識を活かしてくれる方は、[Slack](https://slack.rockylinux.org) に参加し最もあなたの興味に関連が近いチャンネルに参加してください。
 
 プロジェクトへの寄付してくださる方やスポンサーに興味のある方は、 hello@rockylinux.org へメールしてください。
 

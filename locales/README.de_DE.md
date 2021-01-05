@@ -5,31 +5,31 @@
 </p>
 
 <p align="center">
-<i>"Ich erinnere mich an die frühen Tage von CentOS... Mein Mitbegründer war Rocky McGaugh. Er ist nicht mehr länger unter uns und bekam den Erfolg von CentOS nie zu sehen. Um Ihn zu ehren, stelle ich Ihnen... Rocky Linux, vor"</i><br>
+<i>"Ich erinnere mich an die frühen Tage von CentOS... Mein Mitbegründer war Rocky McGaugh. Er ist nicht mehr länger unter uns und bekam den Erfolg von CentOS nie zu sehen. Zu seinen Ehren stelle ich Ihnen... Rocky Linux vor"</i><br>
 — Gregory Kurtzer, Gründer
 </p>
 
 ## Über uns
 
-Rocky Linux ist ein Community- und unternehmensbezogenes Betriebssystem, dass 100 % "bug-für-bug"- kompatibel mit "Enterprise Linux" ist, jetzt wo CentOS die Ausrichtung geändert hat.
+Rocky Linux ist ein Community-basiertes Enterprise-Betriebssystem, das zu 100% ("Bug für Bug") kompatibel mit "Enterprise Linux" ist, nun da CentOS seine Ausrichtung geändert hat.
 
 ## FAQ
 
-> **F:** Was meint ihr mit "jetzt wo CentOS die Ausrichtung geändert hat?"
+> **F:** Was meint ihr mit "nun da CentOS die Ausrichtung geändert hat"?
 
-Das CentOS Projekt [kündigte vor kurzem](https://blog.centos.org/2020/12/future-is-centos-stream/) eine Strategieänderung für CentOS an. Während CentOS zuvor als *Downstream* Build seines Upstream-Anbieters fungierte (Patches und Updates werden erst dann ausgeliefert, nachdem der Upstream-Anbieter diese implementiert hat), soll CentOS nun zu einem *Upstream* Build werden (Patches und Updates werden getestet *bevor* diese in den Upstream-Anbieter aufgenommen werden).
+Das CentOS-Projekt [kündigte vor kurzem](https://blog.centos.org/2020/12/future-is-centos-stream/) eine Strategieänderung für CentOS an. Während CentOS zuvor als *Downstream*-Build seines Upstream-Anbieters fungierte (Patches und Updates werden erst ausgeliefert, nachdem der Upstream-Anbieter diese implementiert hat), soll CentOS nun zu einem *Upstream*-Build werden (Patches und Updates werden getestet, *bevor* diese vom Upstream-Anbieter aufgenommen werden).
 
-Darüber hinaus wird die Unterstützung für CentOS Linux 8 von zuvor 31. Mai 2029  auf den 31. Dezember 2021 verkürzt.
+Darüber hinaus endet die Unterstützung für CentOS Linux 8 bereits am 31. Dezember 2021 statt wie zuvor geplant am 31. Mai 2029.
 
 > **F:** Welche Rolle spielt Rocky Linux dabei?
 
-Rocky Linux soll wie zuvor als Downstream-Build fungieren und Releases erstellen, nachdem sie der Upstream-Anbieter hinzugefügt hat, nicht umgekehrt.
+Rocky Linux soll wie CentOS zuvor als Downstream-Build fungieren und auf Releases des Upstream-Anbieters basieren, nicht umgekehrt.
 
 > **F:** Wann wird Rocky Linux veröffentlicht?
 
 Derzeit gibt es keinen Zeitplan für eine Veröffentlichung.
 
-> **F:** Was ist die Vision von Rocky Linux?
+> **F:** Welche Vision verfolgt Rocky Linux?
 
 Eine **solide**, **stabile** und **transparente** Alternative für Produktionsumgebungen zu erschaffen, die *von* der Community *für* die Community entwickelt wurde.
 
@@ -39,7 +39,7 @@ Wir alle! Rocky Linux ist ein Community-basiertes Projekt und wird es immer sein
 
 > **F:** Wie kann ich mich engagieren?
 
-Bitte lies den [Mitarbeit](#mitarbeit) Abschnitt unten.
+Bitte lies den Abschnitt [Mitarbeit](#mitarbeit) unten.
 
 ## Kontakt
 
@@ -49,12 +49,12 @@ Bitte lies den [Mitarbeit](#mitarbeit) Abschnitt unten.
 | Entwicklung                   | development@rockylinux.org                |
 | Infrastruktur                 | infrastructure@rockylinux.org             |
 | Sicherheit                    | security@rockylinux.org                   |
-| Web und Branding              | web@rockylinux.org, brand@rockylinux.com  |
+| Web und Markennutzung         | web@rockylinux.org, brand@rockylinux.com  |
 
 
 Für alle anderen Fragen: hello@rockylinux.org
 
-## Bleib am Laufenden
+## Bleib auf dem Laufenden
 
 * [Slack](https://slack.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
@@ -66,13 +66,13 @@ Für alle anderen Fragen: hello@rockylinux.org
 
 ## Mitarbeit
 
-Vielen Dank für dein Interesse an einer Mitarbeit.
+Vielen Dank für dein Interesse, an Rocky Linux mitzuarbeiten.
 
-Wenn du Entwickler, Architekt oder Engineer bist bzw. in anderer Form deine Zeit und dein Wissen einbringen möchtest, dann schließe dich uns bei [Slack](https://slack.rockylinux.org) an und abonniere die für dich relevanten Kanäle.
+Wenn du als Softwareentwickler, -architekt, Techniker oder in anderer Form deine Zeit und dein Wissen einbringen möchtest, dann schließe dich uns bei [Slack](https://slack.rockylinux.org) an und abonniere die für dich relevanten Kanäle.
 
-Wenn du daran interessiert bist das Projekt mit einer Spende zu unterstützen oder zu sponsern, dann schreibe eine E-Mail an:  hello@rockylinux.org.
+Wenn du daran interessiert bist, das Projekt mit einer Spende zu unterstützen oder zu sponsern, dann schreibe eine E-Mail an:  hello@rockylinux.org.
 
-**INFO**: Wir haben derzeit **keine** offizielle Crowdsourcing Kampagne laufen.
+**INFO**: Wir haben derzeit noch **keine** offiziellen Crowdsourcing-Möglichkeiten eingerichtet. 
 
 ## Besonderer Dank
 

@@ -6,12 +6,12 @@
 
 <p align="center">
 <i>"回想起 CentOS 最初的时光……那时 Rocky McGaugh 是我的联合创始人。但他已经不在我们身边了，他没能看到 CentOS 的成功，所以作为一个对他的致敬，我向你们介绍…… Rocky Linux"</i><br>
-— Gregory Kurtzer, 创始人
+— Gregory Kurtzer，创始人
 </p>
 
 ## 关于本项目
 
-由于 CentOS 已经改变了发展方向, Rocky Linux是一个社区企业操作系统，旨在实现与 Enterprise Linux 100％ 兼容。
+由于 CentOS 已经改变了发展方向，Rocky Linux是一个社区企业操作系统，旨在实现与 Enterprise Linux 100％ 兼容。
 
 ## 常见问题
 
@@ -31,7 +31,7 @@ Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版
  
 > **Q:** RockyLinux 的愿景是什么？
 
-一个 **可靠**, **稳定**, 并且 **透明** 生产环境替代方案, *由* 社区 *为* 社区开发。
+一个 **可靠**， **稳定**，并且 **透明** 生产环境替代方案，*由* 社区 *为* 社区开发。
 
 > **Q:** 谁来驱动 Rocky Linux？
 
@@ -68,7 +68,7 @@ Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版
 
 感谢您有兴趣为本项目做出贡献。
 
-如果你是一名开发者, 设计师, 工程师, 或者想贡献你的时间和专业知识, 请考虑加入 [Slack](https://slack.rockylinux.org) 进入与你的兴趣最相关的频道。
+如果你是一名开发者，设计师，工程师，或者想贡献你的时间和专业知识，请考虑加入 [Slack](https://slack.rockylinux.org) 进入与你的兴趣最相关的频道。
 
 如果你有兴趣捐赠或赞助这个项目，请发电子邮件到 hello@rockylinux.org。
 

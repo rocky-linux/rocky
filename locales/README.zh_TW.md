@@ -5,53 +5,55 @@
 </p>
 
 <p align="center">
-<i>"回顧 CentOS 初期的時光，我們的共同創辦人 Rocky McGaugh 已經不在了。他未能見到 CentOS 的成功，因此作為向他的致敬，向你們介紹… Rocky Linux"</i><br>
-— Gregory Kurtzer, 創辦人
+<i>「回想起早期 CentOS 的時光... 我的共同創辦人是 Rocky McGaugh。他已經不在我們身邊了，沒能看到 CentOS 的成功，因此為了向他致敬，我向你們介紹... Rocky Linux」</i><br>
+— Gregory Kurtzer, Founder
 </p>
 
 ## 關於
 
-由於 CentOS 的開發目標轉變， Rocky Linux 是來自社群的企業級作業系統，旨在與 RHEL (Red Hat Enterprise Linux) 提供一樣的錯誤相容性。
+為了因應 CentOS 發展方向的改變，Rocky Linux 會是一個基於社群所開發的企業級作業系統，能與 RHEL 發行版 100％ 完全相容。
 
 ## 常見問題
 
-> **Q:** 「CentOS 的開發目標轉變」是什麼意思？
+> **Q:** 「CentOS 發展方向的改變」是什麼意思？
 
-CentOS 專案在[近日宣布](https://blog.centos.org/2020/12/future-is-centos-stream/)開發策略的轉變。以往 CentOS 相對上游組建而言，較晚收到修補及更新；未來這狀況將相反， CentOS Stream 成了前測版本，會比原先的上游組建更早獲得測試版修補及更新。
+CentOS 專案[最近宣佈](https://blog.centos.org/2020/12/future-is-centos-stream/)發行策略上的改變，原本 CentOS 是基於 RHEL 的社群發行版（從 RHEL 接收修補程式和更新），但改成 CentOS Stream 之後反而成為了 RHEL 的前測版本（為 RHEL 測試修補程式和更新）。
 
-此外，CentOS Linux 8 的官方支援也從2029年5月31日被縮短至2021年12月31日。
+除此之外，CentOS 8 的生命週期也從 2029 年 5 月 31 日被縮短到 2021 年 12 月 31 日。
 
-> **Q:** 那 Rocky Linux 做什麼？
+> **Q:** Rocky Linux 為何而生？
 
-Rocky Linux 的目標是成為像以往 CentOS 一樣的下游組建，在上游供應商更新版本後才釋出組建。
+Rocky Linux 的目標是延續 CentOS 先前的模式釋出發行版，而不是像 CentOS Stream 一樣成為 RHEL 的前測版本。
 
-> **Q:** 什麼時候會發行？
+> **Q:** 什麼時間會釋出發行版呢？
 
-目前沒有預計的發行時間。
+目前還沒有預定的時間表。
 
 > **Q:** Rocky Linux 的願景是什麼？
 
-作為生產環境中 **堅實**、**穩定**、**透明** 的替代品，**由社群開發，且為社群開發**。
+一個**可靠**、**穩定**且**透明**的可產品化替代方案，「由」社群開發「給」社群使用。
 
-> **Q:** 誰掌握著 Rocky Linux 的未來？
+> **Q:** 會由誰來主導 Rocky Linux 的相關工作？
 
-我們所有人。 Rocky Linux 是社群驅動的專案，且永遠都會是。 Rocky Linux 不會被出售，也不會由商業利益所驅動。
+我們所有人，Rocky Linux 永遠會是一個由社群所推動的專案。Rocky Linux 不會被出售，也不會因商業利益而有所改變。
 
-> **Q:** 我要如何參與？
+> **Q:** 我能夠如何參與？
 
-請參見下方的 [貢獻](#貢獻) 部分。
+請參考下方 [一展長才](#一展長才) 的部份。
 
 ## 聯絡我們
 
-| Team                  | 聯絡方式                                   |
-|-----------------------|-------------------------------------------|
-| 媒體事務               | outreach@rockylinux.org                   |
-| 開發                  | development@rockylinux.org                |
-| 基礎設施               | infrastructure@rockylinux.org             |
-| 安全                  | security@rockylinux.org                   |
-| Web & Branding       | web@rockylinux.org, brand@rockylinux.com  |
+| 工作團隊                      | 聯絡窗口                                  |
+|-------------------------------|-------------------------------------------|
+| 媒體發佈                      | outreach@rockylinux.org                   |
+| 開發                          | development@rockylinux.org                |
+| 基礎建設                      | infrastructure@rockylinux.org             |
+| 資訊安全                      | security@rockylinux.org                   |
+| 網頁和品牌                    | web@rockylinux.org, brand@rockylinux.com  |
 
-其他問題： hello@rockylinux.org
+其他問題請聯絡：hello@rockylinux.org
+
+## 獲得最新消息
 
 ## 保持聯繫
 * [Slack](https://slack.rockylinux.org)
@@ -62,20 +64,19 @@ Rocky Linux 的目標是成為像以往 CentOS 一樣的下游組建，在上游
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
-## 貢獻
+## 一展長才
 
-謝謝您想要為此專案盡份心力。
+感謝您對於本專案有興趣。
 
-如果您是開發者、設計師、工程師，或者想要貢獻您的精力及專業知識，不妨加入 [Slack](https://slack.rockylinux.org) ，進入你感興趣的頻道。
+如果您是開發者、架構師、工程師或是想要貢獻自己時間與精力，請考慮加入 [Slack](https://slack.rockylinux.org) 並加入和自己興趣最相符的頻道參與討論。
 
-如果您想捐款或贊助本專案，請聯絡 hello@rockylinux.org 。
+如果您希望贊助本專案，請來信到 hello@rockylinux.org。
 
-**提醒**：我們目前 **沒有** 建立任何官方的群眾集資計畫。
+**注意**：我們目前**沒有**任何官方的群眾募資計畫。
 
-## 特別致謝
+## 致謝
 
-我們要感謝下列組織直至今日的支持：
-
+我們非常感謝以下組織對此專案的支持：
 * [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)

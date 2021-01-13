@@ -5,45 +5,45 @@
 </p>
 
 <p align="center">
-<i>"Thinking back to early CentOS days... My cofounder was Rocky McGaugh. He is no longer with us, so as a H/T to him, who never got to see the success that CentOS came to be, I introduce to you...Rocky Linux"</i><br>
-— Gregory Kurtzer, Founder
+<i>"ย้อนกลับไปในช่วงต้นๆ ของ CentOS... ผู้ร่วมก่อตั้งของผมคือ Rocky McGaugh, เขาไม่ได้อยู่กับพวกเราอีกต่อไปแล้ว, เขาคือผู้ที่ไม่ได้เห็นความสําเร็จของ CentOS, ดั่งนั้นเพื่อเป็นการลําลึกถึงเขาผมจึงแนะนํา Rocky Linux"</i><br>
+— Gregory Kurtzer, ผู้ก่อตั้ง
 </p>
 
-## About
+## เกี่ยวกับ
 
-Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux, now that CentOS has shifted direction.
+Rocky Linux คือระบบปฏิบัติการ Community Enterprise ที่ออกแบบระบบมาเพื่อรองรับ 100% bug-for-bug ที่เข้ากับ Enterprise Linux และ ณ ตอนนี้ CentOS ได้เปลี่ยนทิศทางแล้ว
 
-## Frequently Asked Questions
+## คำถามที่พบบ่อย
 
-> **Q:** What do you mean, "CentOS has shifted direction?"
+> **คําถาม:** คุณหมายถึงอะไร, "CentOS ได้เปลี่ยนทิศทางแล้ว?"
 
-The CentOS project [recently announced](https://blog.centos.org/2020/12/future-is-centos-stream/) a shift in strategy for CentOS. Whereas previously CentOS existed as a *downstream* build of its upstream vendor (it receives patches and updates after the upstream vendor does), it will be shifting to an *upstream* build (testing patches and updates *before* inclusion in the upstream vendor).
+โปรเจกต์ CentOS [ที่มีการประกาศการเปลี่ยนแปลงครั้งล่าสุด](https://blog.centos.org/2020/12/future-is-centos-stream/) เป็นการเปลี่ยนกลยุทธ์ให้กับ CentOS, ในก่อนหน้านี้ CentOS นั้นเป็นแค่ **ปลายทาง** จากการสร้างของต้นทาง (ได้รับแพตช์และการอัปเดตหลังจากที่มีให้จาก "ต้นทาง"), หลังจากนี้เราจะเป็นต้นทางการพัฒนาเองจนกระทั่งซัพพอร์ตหมด (การทดสอบแพตช์และการอัปเดต **ก่อน** รวมอยู่ในต้นทาง)
 
-Additionally, support for CentOS Linux 8 has been cut short, from May 31, 2029 to December 31, 2021.
+เพิ่มเติม, การซัพพอร์ตของ Linux CentOS 8 นั้นถูกตัดให้สั้นลง, จาก วันที่ 31 มิถุนายน ปี 2029 ไปเป็น วันที่ 31 ธันวาคม ปี 2021 (ถูกตัดการซัพพอร์ตไป 8 ปีจากของกําหนดเดิม)
 
-> **Q:** So where does Rocky Linux come in?
+> **คําถาม:** Rocky Linux เริ่มต้นจากตรงไหน?
 
-Rocky Linux aims to function as a downstream build as CentOS had done previously, building releases after they have been added to the upstream vendor, not before.
+เป้าหมายของ Rocky Linux คือ การรับความสามารถฟังก์ชั่นจาก CentOS ก่อนหน้านี้ให้เสร็จสมบูรณ์ก่อนหมดซัพพอร์ต, หลังจากนั้นจะเป็นการพัฒนาจากต้นทางจากผู้สร้าง Rocky ทุกคน
 
-> **Q:** When will it be released?
+> **คําถาม:** เมื่อไหร่จะเปิดตัว?
 
-There is not currently an ETA for release.
+ขณะนี้ยังไม่มี ETA สำหรับการเปิดตัว.
 
-> **Q:** What is the vision for Rocky Linux?
+> **คําถาม:** วิสัยทัศน์ของ Rocky Linux คืออะไร?
 
-A **solid**, **stable**, and **transparent** alternative for production environments, developed *by* the community *for* the community.
+A **แข็งแกร่ง**, **เสถียรภาพ**, และ **เข้าใจง่าย** ทางเลือกสําหรับ Product Environments, ที่พัฒนาโดยชุมชุมและเพื่อชุมชน
 
-> **Q:** Who drives Rocky Linux?
+> **คําถาม:** ใครเป็นคนควบคุมอนาคตของ Rocky Linux?
 
-We all do, Rocky Linux is a community-driven project and always will be. Rocky Linux will not be sold or driven by corporate interest.
+เราทุกคนเป็นคนทํา, Rocky Linux เป็นโปรเจกต์ที่ถูกขับเคลื่อนโดยชุมชน และจะเป็นแบบนั้นตลอดไป. Rocky Linux จะไม่ถูกขายหรือขับเคลื่อนจากองค์กรใด องค์กรหนึ่ง
 
-> **Q:** How can I get involved?
+> **คําถาม:** เราจะมีส่วนร่วมได้อย่างไร?
 
-Please view the [contributing](#contributing) section below.
+โปรดลองดู [การมีส่วนร่วม](#contributing) ในหัวข้อข้างล่าง
 
-## Contact
+## การติดต่อ
 
-| Team                          | Contact                                   |
+| ทีม                            | อีเมลล์ที่อยู่                                 |
 |-------------------------------|-------------------------------------------|
 | Press                         | outreach@rockylinux.org                   |
 | Development                   | development@rockylinux.org                |
@@ -52,9 +52,9 @@ Please view the [contributing](#contributing) section below.
 | Web and Branding              | web@rockylinux.org, brand@rockylinux.com  |
 
 
-For all other questions: hello@rockylinux.org
+สําหรับคําถามอื่นๆ: hello@rockylinux.org
 
-## Stay Informed
+## แหล่งข้อมูลอื่นๆ 
 
 * [Slack](https://slack.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
@@ -64,19 +64,19 @@ For all other questions: hello@rockylinux.org
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
-## Contributing
+## การมีส่วนร่วม
 
-Thank you for your interest in contributing to the project.
+ขอบใจที่คุณมีความสนใจที่จะมีส่วนร่วมในการพัฒนากับเรา
 
-If you are a developer, architect, engineer, or otherwise looking to contribute your time and expertise, please consider joining the [Slack](https://slack.rockylinux.org) and jumping into the most relevant channel to your interests.
+ถ้าคุณเป็น **ผู้พัฒนา**, **สถาปนิก**, **วิศวกรร** หรืออย่างอื่นที่คุณกําลังมองหาที่คุณพร้อมที่จะสละเวลาและประสบการณ์ของคุณมาพัฒนากับเรา, โปรดพิจารณาเข้าร่วมที่ [Slack](https://slack.rockylinux.org) และเข้าร่วมแชลแนลที่คุณสนใจที่สุดใน **Slack**
 
-If you are interested in donating or sponsoring the project, please email hello@rockylinux.org.
+หรือถ้าคุณต้องการเป็น สปอนเซอร์หรือผู้บริจาค, โปรดติดต่ออีเมลล์ที่อยู่ดั่งต่อไปนี้ hello@rockylinux.org
 
-**NOTE**: We **do not** currently have any official crowdsourcing established.
+**หมายเหตุ**: ในตอนนี้ พวกเรายังไม่มี **Crowdsourcing** อย่างเป็นทางการ (Crowdsourcing เป็นการทำงานที่เกิดขึ้นมาจากกลุ่มคนจำนวนมาก ที่รวบรวมข้อมูลเพื่อประกอบการตัดสินใจในการทํางานต่างๆ)
 
-## Special Thanks
+## ขอขอบคุณเป็นพิเศษ
 
-We would like to thank the following groups for their support thus far on the project:
+เราขอขอบคุณกลุ่มหรือองค์กรต่อไปนี้ที่ทําให้โปรเจกต์ของเรานั้นมีอนาคตที่ไกล:
 * [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)

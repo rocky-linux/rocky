@@ -19,7 +19,7 @@ Sada kada je *CentOS* promenio svoj smer, *Rocky Linux* je operativni sistem nam
 
 Projekat *CentOS* je [skoro objavio](https://blog.centos.org/2020/12/future-is-centos-stream/) promenu strategije za *CentOS*. Do sada, *CentOS* sistem je izlazio ažuriran sa počekom, nakon osnovnog sistema na koji se oslanjao (dobijajući zakrpke i dopune nakon što bi ih dobila i primenila verzija osnovnog sistema), a sada će ići korak ispred verzije osnovnog sistema (tako da će se na njemu testirati nove zakrpke i dopune, pre nego što one budu primenjene i na osnovni sistem).
 
-Uz to, podrška za *CentOS Linux 8* je skrećena do 31. decembra 2021. godine, umesto do 31. maja 2029. godine.
+Uz to, podrška za *CentOS Linux 8* je skraćena do 31. decembra 2021. godine, umesto do 31. maja 2029. godine.
 
 > **Q:** Šta je svrha *Rocky Linux* sistema?
 

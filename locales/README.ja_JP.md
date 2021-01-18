@@ -56,7 +56,7 @@ Rocky Linuxはコミュニティ主導のプロジェクトであり、今後も
 
 ## 最新情報を入手
 
-* [Slack](https://slack.rockylinux.org)
+* [Mattermost](https://chat.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -68,7 +68,7 @@ Rocky Linuxはコミュニティ主導のプロジェクトであり、今後も
 
 プロジェクトへの貢献に興味を持っていただきありがとうございます。
 
-開発者、アーキテクト、エンジニア、またはその他の方法で時間と専門知識を活かしてくれる方は、[Slack](https://slack.rockylinux.org) に参加し最もあなたの興味に関連が近いチャンネルに参加してください。
+開発者、アーキテクト、エンジニア、またはその他の方法で時間と専門知識を活かしてくれる方は、[Mattermost](https://chat.rockylinux.org) に参加し最もあなたの興味に関連が近いチャンネルに参加してください。
 
 プロジェクトへの寄付してくださる方やスポンサーに興味のある方は、 hello@rockylinux.org へメールしてください。
 

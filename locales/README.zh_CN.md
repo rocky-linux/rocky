@@ -56,7 +56,7 @@ Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版
 
 ## 随时了解情况
 
-* [Slack](https://slack.rockylinux.org)
+* [Mattermost](https://chat.rockylinux.org)
 * [论坛](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -68,7 +68,7 @@ Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版
 
 感谢您有兴趣为本项目做出贡献。
 
-如果你是一名开发者, 设计师, 工程师, 或者想贡献你的时间和专业知识, 请考虑加入 [Slack](https://slack.rockylinux.org) 进入与你的兴趣最相关的频道。
+如果你是一名开发者, 设计师, 工程师, 或者想贡献你的时间和专业知识, 请考虑加入 [Mattermost](https://chat.rockylinux.org) 进入与你的兴趣最相关的频道。
 
 如果你有兴趣捐赠或赞助这个项目，请发电子邮件到 hello@rockylinux.org。
 

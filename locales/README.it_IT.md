@@ -57,7 +57,7 @@ Per tutte le altre domande: hello@rockylinux.org
 
 ## Segui gli aggiornamenti
 
-* [Slack](https://slack.rockylinux.org)
+* [Mattermost](https://chat.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -69,7 +69,7 @@ Per tutte le altre domande: hello@rockylinux.org
 
 Grazie per il tuo interesse a contribuire al progetto.
 
-Se sei uno sviluppatore, architect, ingegnere o in ogni caso interessato a contribuire il tuo tempo e le tue competenze allora considera di iscriverti al nostro [Slack](https://slack.rockylinux.org) ed entrare nei canali più rilevanti per i tuoi interessi.
+Se sei uno sviluppatore, architect, ingegnere o in ogni caso interessato a contribuire il tuo tempo e le tue competenze allora considera di iscriverti al nostro [Mattermost](https://chat.rockylinux.org) ed entrare nei canali più rilevanti per i tuoi interessi.
 
 Se sei interessato a donare o sponsorizzare il progetto, per piacere scrivi a hello@rockylinux.org
 

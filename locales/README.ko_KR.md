@@ -78,7 +78,7 @@ Rocky Linux의 목표는 이전이 아닌 업스트림 공급 업체에 버전�
 ## 특별 감사
 
 지금까지 프로젝트를 지원해주신 다음 그룹에 감사 드립니다.
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

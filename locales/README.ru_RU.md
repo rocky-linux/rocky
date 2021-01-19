@@ -77,7 +77,7 @@ Rocky Linux стремится существовать как свободна�
 ## Особая благодарность
 
 Мы хотели бы поблагодарить следующие группы за поддержку проекта:
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

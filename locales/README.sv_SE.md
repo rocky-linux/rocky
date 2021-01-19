@@ -73,7 +73,7 @@ Om du är intresserad av att donera eller sponsra projektet, vänligen skicka et
 
 ## Speciellt tack till 
 Vi vill tacka följande grupper för deras generösa stöd hittills till projektet:
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

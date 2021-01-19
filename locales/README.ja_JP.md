@@ -79,7 +79,7 @@ Rocky Linuxはコミュニティ主導のプロジェクトであり、今後も
 ## スペシャルサンクス
 
 プロジェクトへの支援に対して、以下のグループに感謝いたします。
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

@@ -76,7 +76,7 @@ Rocky Linux 的目標是成為像以往 CentOS 一樣的下游組建，在上游
 
 我們要感謝下列組織直至今日的支持：
 
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

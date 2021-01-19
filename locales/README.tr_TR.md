@@ -78,7 +78,7 @@ Projeye bağış yapmak veya sponsorluk yapmakla ilgileniyorsanız, lütfen hell
 ## Özel Teşekkürler
 
 Şu ana kadar projeye verdikleri destek için aşağıdaki gruplara teşekkür ederiz:
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

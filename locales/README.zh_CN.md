@@ -77,7 +77,7 @@ Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版
 ## 特别鸣谢
 
 我们想要感谢以下组织的目前为止的支持:
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

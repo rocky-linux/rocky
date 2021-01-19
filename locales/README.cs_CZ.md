@@ -76,7 +76,7 @@ Chcete-li projektu něco věnovat či projekt sponzorovat, prosím pošlete emai
 ## Poděkování
 
 Chtěli bychom poděkovat těmto skupinám za jejich dosavadní podporu:
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

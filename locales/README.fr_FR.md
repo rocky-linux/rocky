@@ -76,7 +76,7 @@ Si vous souhaitez faire un don ou parrainer le projet, veuillez envoyer un e-mai
 ## Remerciement spécial
 
 Nous tenons à remercier les groupes suivants pour leur soutien à ce jour sur le projet:
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

@@ -77,7 +77,7 @@ Se você está interessado em doar ou se tornar sponsor do projeto, por favor me
 ## Agradecimentos especiais
 
 Gostariamos de agradecer aos seguintes grupos por seu suporte até aqui no projeto:
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

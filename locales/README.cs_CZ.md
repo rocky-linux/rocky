@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://rockylinux.org/">
-<img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+<img src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
 </a>
 </p>
 
@@ -55,7 +55,7 @@ Jakékoliv jiné dotazy pište na: hello@rockylinux.org
 
 ## Zůstaňte v kontaktu
 
-* [Slack](https://slack.rockylinux.org)
+* [Mattermost](https://chat.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -67,7 +67,7 @@ Jakékoliv jiné dotazy pište na: hello@rockylinux.org
 
 Velmi Vám děkujeme za Váš zájem přispět projektu.
 
-Jste-li vývojářem, architektem, inženýrem, nebo se zajímáte o jiné možnosti jak věnovat svůj čas a zkušenosti, prosím připojte se na [Slack](https://slack.rockylinux.org) a otevřete si kanál který nejlépe odpovídá Vaším představám.
+Jste-li vývojářem, architektem, inženýrem, nebo se zajímáte o jiné možnosti jak věnovat svůj čas a zkušenosti, prosím připojte se na [Mattermost](https://chat.rockylinux.org) a otevřete si kanál který nejlépe odpovídá Vaším představám.
 
 Chcete-li projektu něco věnovat či projekt sponzorovat, prosím pošlete email na hello@rockylinux.org.
 
@@ -76,7 +76,7 @@ Chcete-li projektu něco věnovat či projekt sponzorovat, prosím pošlete emai
 ## Poděkování
 
 Chtěli bychom poděkovat těmto skupinám za jejich dosavadní podporu:
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

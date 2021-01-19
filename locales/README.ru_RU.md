@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://rockylinux.org/">
-<img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+<img src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
 </a>
 </p>
 
@@ -56,7 +56,7 @@ Rocky Linux стремится существовать как свободна�
 
 ## Будь в курсе
 
-* [Slack](https://slack.rockylinux.org)
+* [Mattermost](https://chat.rockylinux.org)
 * [Форум](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -68,7 +68,7 @@ Rocky Linux стремится существовать как свободна�
 
 Спасибо за ваш интерес к разработке проекта.
 
-Если вы программист, архитектор, инженер или хотите поделиться своим опытом, пожалуйста, присоединяйтесь к нашему [Slack](https://slack.rockylinux.org) и переходите в канал соответствующий вашему интересу.
+Если вы программист, архитектор, инженер или хотите поделиться своим опытом, пожалуйста, присоединяйтесь к нашему [Mattermost](https://chat.rockylinux.org) и переходите в канал соответствующий вашему интересу.
 
 Если вы заинтересованы в спонсорстве проекта, пожалуйста свяжитесь с нами hello@rockylinux.org.
 
@@ -77,7 +77,7 @@ Rocky Linux стремится существовать как свободна�
 ## Особая благодарность
 
 Мы хотели бы поблагодарить следующие группы за поддержку проекта:
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

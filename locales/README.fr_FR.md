@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://rockylinux.org/">
-<img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+<img src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
 </a>
 </p>
 
@@ -55,7 +55,7 @@ Pour toutes autres questions: hello@rockylinux.org
 
 ## Rester Informé
 
-* [Slack](https://slack.rockylinux.org)
+* [Mattermost](https://chat.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -67,7 +67,9 @@ Pour toutes autres questions: hello@rockylinux.org
 
 Merci pour votre intérêt !
 
-Si vous êtes développeur, architecte, ingénieur ou cherchez à apporter votre temps ou votre expertise, rejoingnez [Slack](https://slack.rockylinux.org) puis le canal qui vous intéresse.
+
+Si vous êtes développeur, architecte, ingénieur ou cherchez à apporter votre temps ou votre expertise, rejoingnez [Mattermost](https://chat.rockylinux.org) puis le canal qui vous intéresse.
+
 
 Si vous souhaitez faire un don ou parrainer le projet, envoyez un courriel à hello@rockylinux.org.
 
@@ -76,7 +78,7 @@ Si vous souhaitez faire un don ou parrainer le projet, envoyez un courriel à he
 ## Remerciements spéciaux
 
 Nous remercions les groupes suivants pour leur soutien:
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://rockylinux.org/">
-<img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+<img src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
 </a>
 </p>
 
@@ -57,7 +57,7 @@ Rocky Linux의 목표는 이전이 아닌 업스트림 공급 업체에 버전�
 
 ## 최신 정보
 
-* [Slack](https://slack.rockylinux.org)
+* [Mattermost](https://chat.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -69,7 +69,7 @@ Rocky Linux의 목표는 이전이 아닌 업스트림 공급 업체에 버전�
 
 프로젝트 기여에 관심을 가져 주셔서 감사합니다.
 
-만약 개발자, 설계자, 엔지니어 이시거나 전문 지식을 제공하고자 하시는 경우 [Slack](https://slack.rockylinux.org) 채널에 참여해보세요. 관심 분야와 가장 관련성이 높은 채널로 참가하여 이야기를 나눌 수 있습니다.
+만약 개발자, 설계자, 엔지니어 이시거나 전문 지식을 제공하고자 하시는 경우 [Mattermost](https://chat.rockylinux.org) 채널에 참여해보세요. 관심 분야와 가장 관련성이 높은 채널로 참가하여 이야기를 나눌 수 있습니다.
 
 만약 프로젝트에 기부 또는 후원에 관심이 있으신 경우, hello@rockylinux.org 주소로 이메일을 보내주세요.
 
@@ -78,7 +78,7 @@ Rocky Linux의 목표는 이전이 아닌 업스트림 공급 업체에 버전�
 ## 특별 감사
 
 지금까지 프로젝트를 지원해주신 다음 그룹에 감사 드립니다.
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

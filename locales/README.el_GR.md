@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://rockylinux.org/">
-<img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+<img src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
 </a>
 </p>
 
@@ -56,7 +56,7 @@
 
 ## Μείνετε ενημερωμένοι
 
-* [Slack](https://slack.rockylinux.org)
+* [Mattermost](https://chat.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -68,4 +68,4 @@
 
 Σας ευχαριστούμε για το ενδιαφέρον σας να συνεισφέρετε σε αυτό εγχείρημα.
 
-Εάν είστε προγραμματιστής ή θέλετε να συνεισφέρετε με τον χρόνο και την εμπειρία σας, σκεφτείτε το ενδεχόμενο να συμμετάσχετε στο [Slack](https://slack.rockylinux.org) και να μεταβείτε στο πιο σχετικό κανάλι για τα ενδιαφέροντά σας.
+Εάν είστε προγραμματιστής ή θέλετε να συνεισφέρετε με τον χρόνο και την εμπειρία σας, σκεφτείτε το ενδεχόμενο να συμμετάσχετε στο [Mattermost](https://chat.rockylinux.org) και να μεταβείτε στο πιο σχετικό κανάλι για τα ενδιαφέροντά σας.

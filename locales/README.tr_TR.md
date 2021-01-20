@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://rockylinux.org/">
-<img src="https://media.githubusercontent.com/media/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
+<img src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
 </a>
 </p>
 
@@ -56,7 +56,7 @@ Diğer tüm sorularınız için: hello@rockylinux.org
 
 ## Haberdar Olun
 
-* [Slack](https://slack.rockylinux.org)
+* [Mattermost](https://chat.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
 * [GitHub](https://github.com/rocky-linux/)
 * [Twitter](https://twitter.com/rocky_linux)
@@ -68,7 +68,7 @@ Diğer tüm sorularınız için: hello@rockylinux.org
 
 Projeye katkıda bulunmaya gösterdiğiniz ilgi için teşekkür ederiz.
 
-Bir geliştirici, mimar, mühendis veya başka bir şekilde zamanınız ve/veya uzmanlığınız ile  katkıda bulunmayı düşünüyorsanız, lütfen [Slack](https://slack.rockylinux.org)'e giriş yapın ve ilgi alanlarınızla en alakalı kanala katılın.
+Bir geliştirici, mimar, mühendis veya başka bir şekilde zamanınız ve/veya uzmanlığınız ile  katkıda bulunmayı düşünüyorsanız, lütfen [Mattermost](https://chat.rockylinux.org)'e giriş yapın ve ilgi alanlarınızla en alakalı kanala katılın.
 
 Projeye bağış yapmak veya sponsorluk yapmakla ilgileniyorsanız, lütfen hello@rockylinux.org adresine e-posta gönderin.
 
@@ -78,7 +78,7 @@ Projeye bağış yapmak veya sponsorluk yapmakla ilgileniyorsanız, lütfen hell
 ## Özel Teşekkürler
 
 Şu ana kadar projeye verdikleri destek için aşağıdaki gruplara teşekkür ederiz:
-* [Ctrl IQ, Inc.](https://www.ctrl-cmd.com)
+* [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)
 * [SpryServers](https://www.spryservers.net/)

@@ -39,7 +39,7 @@ Nós todos o fazemos, Rocky Linux é um projeto *community-driven* e sempre ser�
 
 > **Q:** Como eu posso me envolver?
 
-Por favor, veja a sessão de [contribuição](#Contribuindo) abaixo.
+Por favor, veja a seção de [contribuição](#Contribuindo) abaixo.
 
 ## Contatos
 

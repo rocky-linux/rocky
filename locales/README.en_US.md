@@ -27,7 +27,7 @@ Rocky Linux aims to function as a downstream build as CentOS had done previously
 
 > **Q:** When will it be released?
 
-There is not currently an ETA for release.
+Release is planned for Q2 2021.
 
 > **Q:** What is the vision for Rocky Linux?
 

@@ -27,7 +27,7 @@ Rocky Linux vise à fonctionner comme une construction en aval tel que CentOS l'
 
 > **Q:** Quand va-t-il sortir?
 
-Il n'y a actuellement pas de date de sortie pour la publication.
+Une première version est prévue pour le deuxième trimestre 2021.
 
 > **Q:** Quelle est la vision de Rocky Linux?
 
@@ -39,7 +39,7 @@ Nous le faisons tous, Rocky Linux est un projet communautaire et le sera toujour
 
 > **Q:** Comment puis-je m'impliquer?
 
-Veuillez consulter la section [contribution](#Contribuant) ci-dessous.
+Veuillez consulter la section [contribution](#Contribuer) ci-dessous.
 
 ## Contact
 
@@ -63,7 +63,7 @@ Pour toutes autres questions: hello@rockylinux.org
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
-## Contribuant
+## Contribuer
 
 Merci pour votre intérêt à contribuer au projet.
 

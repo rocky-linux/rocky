@@ -15,7 +15,7 @@ Rocky Linux artık CentOS yön değiştirdiği için ortaya çıkan, Enterprise 
 
 ## Sık Sorulan Sorular
 
-> **S:**"CentOS yön değiştirdi." derken ne demek istiyorsunuz?
+> **S:** "CentOS yön değiştirdi." derken ne demek istiyorsunuz?
 
 CentOS projesi [yakın zamanda açıklandığı üzere](https://blog.centos.org/2020/12/future-is-centos-stream/) stratejisini değiştirdi. Önceden upstream sağlayıcısının *downstream* bir buildi iken (güncellemeleri ve yamaları upstream sağlayıcısından sonra alan) artık bir *upstream* buildine dönüşecek (upstream sağlayıcısından *önce* yamaları ve güncellemeleri test edecek).
 
@@ -39,7 +39,7 @@ Hepimiziz. Rocky Linux topluluk tarafından geliştirilen bir projedir ve hep ö
 
 > **S:** Nasıl katkıda bulunabilirim?
 
-Lütfen aşağıdaki [katkıda bulunmak](#contributing) başlığını okuyun.
+Lütfen aşağıdaki [katkıda bulunma](#contributing) başlığını okuyun.
 
 ## İletişim
 
@@ -64,7 +64,7 @@ Diğer sorularınız için: hello@rockylinux.org
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
-## Katkıda Bulunmak
+## Katkıda Bulunma
 
 Projeye katkıda bulunmak istediğiniz için teşekkürler.
 

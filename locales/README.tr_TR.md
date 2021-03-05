@@ -5,56 +5,56 @@
 </p>
 
 <p align="center">
-<i>"İlk CentOS günlerine geri dönüyoruz... Ortağım Rocky McGaugh. O artık bizimle değil,CentOS'un geldiği başarıyı asla göremedi, onun için bir anı olarak, sizlere tanıtıyorum... Rocky Linux"</i><br>
-— Gregory Kurtzer, Kurucu
+<i>"Eski CentOS günlerine geri dönersek... İşi Rocky McGaugh ile beraber kurmuştum. Artık bizimle değil, ve CentOS'un başarılarını göremeyen ona ithafen... Rocky Linux'u sunuyorum."</i><br>
+— Gregory Kurtzer, Founder
 </p>
 
 ## Hakkında
 
-Rocky Linux, artık CentOS yön değiştirdiğinden, Enterprise Linux ile %100 bug-for-bug uyumlu olacak şekilde tasarlanmış bir topluluk kurumsal İşletim Sistemidir.
+Rocky Linux artık CentOS yön değiştirdiği için ortaya çıkan, Enterprise Linux ile bugları bile %100 aynı olacak şekilde tasarlanmış bir topluluk ticari İşletim Sistemidir.
 
-## Sıkça Sorulan Sorular
+## Sık Sorulan Sorular
 
-> **Q:** "CentOS yön değiştirdi" ne demek ? 
+> **S:**"CentOS yön değiştirdi." derken ne demek istiyorsunuz?
 
-CentOS projesi [yakın zamanda duyuruldu](https://blog.centos.org/2020/12/future-is-centos-stream/) CentOS için stratejide bir değişiklik yaptı. Daha önce CentOS, yukarı akış satıcısının bir aşağı akış yapısı olarak mevcut iken (yukarı akış sürüm çıktıktan sonra yamaları ve güncellemeleri alır), yukarı akışlı bir yapıya geçecek(yukarı akış sürüme dahil edilmeden önce yamaları ve güncellemeleri test etmektir).
+CentOS projesi [yakın zamanda açıklandığı üzere](https://blog.centos.org/2020/12/future-is-centos-stream/) stratejisini değiştirdi. Önceden upstream sağlayıcısının *downstream* bir buildi iken (güncellemeleri ve yamaları upstream sağlayıcısından sonra alan) artık bir *upstream* buildine dönüşecek (upstream sağlayıcısından *önce* yamaları ve güncellemeleri test edecek).
 
-Ek olarak, CentOS Linux 8 desteği 31 Mayıs 2029'dan 31 Aralık 2021'e kadar çekildi.
+Üstelik CentOS Linux 8'in destek süresi 31 Mayıs 2029'dan 31 Aralık 2021'e çekildi.
 
-> **Q:** Peki Rocky Linux nereden geliyor?
+> **S:** Peki Rocky Linux ne yapacak?
 
-Rocky Linux, CentOS'un daha önce yaptığı gibi bir downstream yapı olarak işlev görmeyi, sürümleri daha önce değil, upstream sağlayıcıya eklendikten sonra oluşturmayı hedefliyor.
+Rocky Linux CentOS'un önceden olduğu gibi bir downstream buildi olmayı hedefliyor, yani güncellemeleri upstream sağlayıcısına eklendikten sonra alacak, önce değil.
 
-> **Q:** Ne zaman yayınlanacak?
+> **S:** Ne zaman yayınlanacak?
 
-Şu anda için tahmini bir sürüm çıkış zamanı yok.
+2021'in ikinci çeyreğinde yayınlamayı hedefliyoruz.
 
-> **Q:** Rocky Linux'un vizyonu nedir?
+> **S:** Rocky Linux'un amacı nedir?
 
-*Topluluk için*  topluluk  *tarafından* geliştirilen, üretim ortamları için **sağlam**, **kararlı** ve **şeffaf** bir alternatif.
+C Üretim ortamları için topluluk *tarafından* topluluk *için* geliştirilen **sağlam**, **stabil**, ve **şeffaf** bir alternatif olmak.
 
-> **Q:** Rocky Linux'u kim güdüyor?
+> **S:** Rocky Linux'un sahibi kim?
 
-Rocky Linux topluluk odaklı bir projedir ve her zaman öyle olacaktır. Rocky Linux satılmayacak veya kurumsal çıkarlara göre yönlendirilmeyecektir.
+Hepimiziz. Rocky Linux topluluk tarafından geliştirilen bir projedir ve hep öyle olacak. Rocky Linux satılmayacak veya şirketlerin ticari çıkarları doğrultusunda ilerlemeyecek.
 
-> **Q:** Nasıl katılabilirim?
+> **S:** Nasıl katkıda bulunabilirim?
 
-Lütfen aşağıdaki [katkıda bulun](#katkıda-bulun) bölümünü görüntüleyin.
+Lütfen aşağıdaki [katkıda bulunmak](#contributing) başlığını okuyun.
 
 ## İletişim
 
-| Takım                         | İletişim                                  |
+| Ekip                          | İletişim                                  |
 |-------------------------------|-------------------------------------------|
 | Basın                         | outreach@rockylinux.org                   |
 | Geliştirme                    | development@rockylinux.org                |
 | Altyapı                       | infrastructure@rockylinux.org             |
 | Güvenlik                      | security@rockylinux.org                   |
-| Web ve Markalaşma             | web@rockylinux.org, brand@rockylinux.com  |
+| Ağ ve Marka                   | web@rockylinux.org, brand@rockylinux.com  |
 
 
-Diğer tüm sorularınız için: hello@rockylinux.org
+Diğer sorularınız için: hello@rockylinux.org
 
-## Haberdar Olun
+## Güncel Kalın
 
 * [Mattermost](https://chat.rockylinux.org)
 * [Forum](https://forums.rockylinux.org/)
@@ -64,20 +64,19 @@ Diğer tüm sorularınız için: hello@rockylinux.org
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
-## Katkıda Bulun
+## Katkıda Bulunmak
 
-Projeye katkıda bulunmaya gösterdiğiniz ilgi için teşekkür ederiz.
+Projeye katkıda bulunmak istediğiniz için teşekkürler.
 
-Bir geliştirici, mimar, mühendis veya başka bir şekilde zamanınız ve/veya uzmanlığınız ile  katkıda bulunmayı düşünüyorsanız, lütfen [Mattermost](https://chat.rockylinux.org)'e giriş yapın ve ilgi alanlarınızla en alakalı kanala katılın.
+Eğer bir geliştirici, mimar, mühendis, veya zamanını ve tecrübesiyle bu işe katkıda bulunmak isteyen biriyseniz lütfen [Mattermost](https://chat.rockylinux.org)'a katılıp en ilginizi çeken kanala girin.
 
-Projeye bağış yapmak veya sponsorluk yapmakla ilgileniyorsanız, lütfen hello@rockylinux.org adresine e-posta gönderin.
+Projeye bağışta bulunmak veya sponsor olmak istiyosanız lütfen hello@rockylinux.org adresine bir e-posta gönderin.
 
-
-**NOT**: Şu anda kurulu herhangi bir resmi kitle kaynak kullanımına **sahip değiliz**.
+**NOT**: Şu an resmi bir crowdsourcingimiz **bulunmamaktadır**.
 
 ## Özel Teşekkürler
 
-Şu ana kadar projeye verdikleri destek için aşağıdaki gruplara teşekkür ederiz:
+Bu projeye şimdiye kadar verdikleri desteklerden dolayı şu gruplara teşekkürü bir borç biliriz:
 * [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)

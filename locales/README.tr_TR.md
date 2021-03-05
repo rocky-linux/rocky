@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<i>"Eski CentOS günlerine geri dönersek... İşi Rocky McGaugh ile beraber kurmuştum. Artık bizimle değil, ve CentOS'un başarılarını göremeyen ona ithafen... Rocky Linux'u sunuyorum."</i><br>
+<i>"Eski CentOS günlerine geri dönecek olursak... İşi Rocky McGaugh ile beraber kurmuştuk. Ne yazık ki o artık bizimle değil, ve CentOS'un başarılarını göremeyen ona ithafen... sizlere Rocky Linux'u sunuyorum."</i><br>
 — Gregory Kurtzer, Founder
 </p>
 
@@ -17,7 +17,7 @@ Rocky Linux artık CentOS yön değiştirdiği için ortaya çıkan, Enterprise 
 
 > **S:** "CentOS yön değiştirdi." derken ne demek istiyorsunuz?
 
-CentOS projesi [yakın zamanda açıklandığı üzere](https://blog.centos.org/2020/12/future-is-centos-stream/) stratejisini değiştirdi. Önceden upstream sağlayıcısının *downstream* bir buildi iken (güncellemeleri ve yamaları upstream sağlayıcısından sonra alan) artık bir *upstream* buildine dönüşecek (upstream sağlayıcısından *önce* yamaları ve güncellemeleri test edecek).
+CentOS projesi [yakın zamanda duyurulduğu üzere](https://blog.centos.org/2020/12/future-is-centos-stream/) stratejisini değiştirdi. Önceden upstream sağlayıcısının *downstream* bir buildi iken (güncellemeleri ve yamaları upstream sağlayıcısından sonra alan) artık bir *upstream* buildine dönüşecek (upstream sağlayıcısından *önce* yamaları ve güncellemeleri test edecek).
 
 Üstelik CentOS Linux 8'in destek süresi 31 Mayıs 2029'dan 31 Aralık 2021'e çekildi.
 

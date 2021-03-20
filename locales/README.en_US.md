@@ -45,7 +45,7 @@ Please view the [contributing](#contributing) section below.
 
 | Team                          | Contact                                   |
 |-------------------------------|-------------------------------------------|
-| Press                         | outreach@rockylinux.org                   |
+| Press                         | community@rockylinux.org                   |
 | Development                   | development@rockylinux.org                |
 | Infrastructure                | infrastructure@rockylinux.org             |
 | Security                      | security@rockylinux.org                   |

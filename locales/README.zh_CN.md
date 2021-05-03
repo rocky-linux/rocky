@@ -11,7 +11,7 @@
 
 ## 关于本项目
 
-由于 CentOS 已经改变了发展方向, Rocky Linux是一个社区企业操作系统，旨在实现与 Enterprise Linux 100％ 兼容。
+由于 CentOS 已经改变了发展方向, Rocky Linux是一个社区企业级操作系统，旨在实现与 Enterprise Linux 100％ 兼容。
 
 ## 常见问题
 
@@ -23,7 +23,7 @@ CentOS 项目组 [最近宣布了](https://blog.centos.org/2020/12/future-is-cen
 
 > **Q:** 那么 Rocky Linux 的优势在哪呢？
 
-Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版被添加到上游之后再构建版本，而不是之前。
+Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版被添加到上游之后再构建版本。
 
 > **Q:** 它会在什么时候发布？
 
@@ -31,7 +31,7 @@ Rocky Linux 的目标是像以前 CentOS 那样充当下游构建，在发行版
  
 > **Q:** RockyLinux 的愿景是什么？
 
-一个 **可靠**, **稳定**, 并且 **透明** 生产环境替代方案, *由* 社区 *为* 社区开发。
+一个 **可靠**, **稳定**, 并且 **透明的** 生产环境替代方案, *由* 社区 *为* 社区开发。
 
 > **Q:** 谁来驱动 Rocky Linux？
 

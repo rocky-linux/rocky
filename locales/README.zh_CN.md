@@ -11,7 +11,7 @@
 
 ## 关于本项目
 
-由于 CentOS 已经改变了发展方向, Rocky Linux是一个社区企业级操作系统，旨在实现与 Enterprise Linux 100％ 兼容。
+由于 CentOS 已经改变了发展方向, Rocky Linux是一个社区企业级操作系统，旨在实现与 RHEL (Red Hat Enterprise Linux) 100％ 兼容。
 
 ## 常见问题
 

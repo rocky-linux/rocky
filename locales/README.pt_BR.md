@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://rockylinux.org/">
-<img src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo-text-light%402x.png" alt="Logotipo Rocky Linux">
+<img src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo/out/logo-padded-bg_primary-white_white-64x.png" alt="Logotipo Rocky Linux">
 </a>
 </p>
 

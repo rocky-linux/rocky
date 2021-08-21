@@ -1,8 +1,4 @@
-<p align="center">
-<a href="https://rockylinux.org/">
-<img src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo-text-light%402x.png" alt="Rocky Linux Logo">
-</a>
-</p>
+**This repository is archived. Stable, production-ready releases of Rocky Linux have been available since June 2021. Please visit [rockylinux.org](https://rockylinux.org) for current information about Rocky Linux**
 
 <p align="center">
 <i>"Thinking back to early CentOS days... My cofounder was Rocky McGaugh. He is no longer with us, so as a H/T to him, who never got to see the success that CentOS came to be, I introduce to you...Rocky Linux"</i><br>

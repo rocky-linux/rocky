@@ -11,7 +11,7 @@
 
 ## Om
 
-Rocky Linux är ett Community Enterprise Operativ system designat att vara 100% bugg-för-bugg-kompatibelt med Enterprise Linux, nu när CentOS har ändrat inriktning.
+Rocky Linux är ett Community Enterprise Operativsystem designat att vara 100% bugg-för-bugg-kompatibelt med Enterprise Linux, nu när CentOS har ändrat inriktning.
 
 ## Vanliga frågor och svar
 > **F:** Vad menar ni med att, "CentOS har ändrat inriktning"

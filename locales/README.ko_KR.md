@@ -12,7 +12,7 @@
 
 ## 우리에 대하여
 
-Rocky Linux는 CentOS가 방항을 변경함에 따라 Enterprise Linux와 100% 버그별로 호환되도록 설계된 커뮤니티 엔터프라이즈 운영 체제입니다.
+Rocky Linux는 CentOS가 방향을 변경함에 따라 Enterprise Linux와 100% 버그별로 호환되도록 설계된 커뮤니티 엔터프라이즈 운영 체제입니다.
 
 ## 자주 묻는 질문
 

@@ -39,7 +39,7 @@ Nous le faisons tous, Rocky Linux est un projet communautaire et le sera toujour
 
 > **Q:** Comment puis-je m'impliquer?
 
-Veuillez consulter la section [contribution](#Contribuant) ci-dessous.
+Consultez la section [contribution](#Contribuant) ci-dessous.
 
 ## Contact
 
@@ -63,19 +63,21 @@ Pour toutes autres questions: hello@rockylinux.org
 * [Reddit](https://www.reddit.com/r/RockyLinux)
 * [Matrix](https://matrix.to/#/+rockylinux:matrix.org)
 
-## Contribuant
+## Contribuer
 
-Merci pour votre intérêt à contribuer au projet.
+Merci pour votre intérêt !
 
-Si vous êtes un développeur, un architecte, un ingénieur ou si vous cherchez à apporter votre temps et votre expertise, veuillez envisager de rejoindre [Mattermost](https://chat.rockylinux.org) et sauter dans le canal le plus pertinent à vos intérêts.
 
-Si vous souhaitez faire un don ou parrainer le projet, veuillez envoyer un e-mail à hello@rockylinux.org. 
+Si vous êtes développeur, architecte, ingénieur ou cherchez à apporter votre temps ou votre expertise, rejoingnez [Mattermost](https://chat.rockylinux.org) puis le canal qui vous intéresse.
 
-**REMARQUE**: Nous **n'avons** actuellement aucun crowdsourcing officiel établi.
 
-## Remerciement spécial
+Si vous souhaitez faire un don ou parrainer le projet, envoyez un courriel à hello@rockylinux.org.
 
-Nous tenons à remercier les groupes suivants pour leur soutien à ce jour sur le projet:
+**REMARQUE**: Nous **n'avons** actuellement aucun financement participatif officiel établi.
+
+## Remerciements spéciaux
+
+Nous remercions les groupes suivants pour leur soutien:
 * [Ctrl IQ, Inc.](https://www.ctrliq.com)
 * [The OSU Open Source Lab](https://osuosl.org/)
 * [Clouvider](https://www.clouvider.co.uk/)

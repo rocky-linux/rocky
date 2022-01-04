@@ -18,13 +18,13 @@ Rocky Linux es un Sistema Operativo empresarial comunitario diseñado para ser 1
 
 > **P:** ¿A qué te refieres con, "Centos ha cambiado de dirección"?
 
-El proyecto CentOS [recientemente anunció](https://blog.centos.org/2020/12/future-is-centos-stream/) un cambio en su estrategia para CentOS. Mientras previamente CentOS existía como un build *downstream* de su proveedor upstream (recibía parches y actualizaciones luego del proveedor), ahora cambiará a ser un build *upstream* (testeando parches y actualziaciones *antes* de su inclusión en el proveedor upstream).
+El proyecto CentOS [recientemente anunció](https://blog.centos.org/2020/12/future-is-centos-stream/) un cambio en su estrategia para CentOS. Mientras previamente CentOS existía como una build *downstream* de su proveedor upstream (recibía parches y actualizaciones luego del proveedor), ahora cambiará a ser una build *upstream* (testeando parches y actualizaciones *antes* de su inclusión en el proveedor upstream).
 
-En adición a eso, el soporte para CentOS Linux 8 se acortó, del 31 de Mayo de 2029 al 31 de Diciembre de 2021.
+En adición a eso, el soporte para CentOS Linux 8 se acortó, del 31 de mayo de 2029 al 31 de diciembre de 2021.
 
 > **P:** ¿Y dónde entra Rocky Linux?
 
-Rocky Linux apunta a funcionar como un build downstream como lo hacía previamente CentOS, compilando releases después de que se agreguen al proveedor upstream, no antes.
+Rocky Linux apunta a funcionar como una build *downstream* como lo hacía previamente CentOS, compilando releases después de que se agreguen al proveedor *upstream*, no antes.
 
 > **P:** ¿Cuándo será liberado?
 
@@ -53,7 +53,7 @@ Por favor mira la sección [contribuye](#contribuye) más abajo.
 | Web y Marca      | web@rockylinux.org, brand@rockylinux.com |
 
 
-Por cualquier otra pregunta: hello@rockylinux.org
+Para cualquier otra pregunta: hello@rockylinux.org
 
 ## Mantente Informado
 
@@ -73,7 +73,7 @@ Si eres un desarrollador, arquitecto, ingeniero, o estás buscando contribuir tu
 
 Si estás interesado en donar o patrocinar el proyecto, por favor envía un email a hello@rockylinux.org.
 
-**NOTA**: Actualmente **no tenemos** establecido ningún canal oficial de crowdsourcing.
+**NOTA**: Actualmente **no tenemos** establecido ningún canal oficial de *crowdsourcing*.
 
 ## Agradecimientos Especiales
 
